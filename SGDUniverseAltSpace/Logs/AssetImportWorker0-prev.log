@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.18f1 (a7d1c678663c) revision 10998214'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 22000.588; Version 2009; 64bit' Language: 'en' Physical Memory: 65197 MB
+OS: 'Windows 10 Home; OS build 19043.1645; Version 2009; 64bit' Language: 'en' Physical Memory: 16316 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
 COMMAND LINE ARGUMENTS:
@@ -11,108 +11,117 @@ C:\Program Files\Unity\Hub\Editor\2020.3.18f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/Zande/Desktop/SGDUniverseAltSpace/SGDUniverseAltSpace
+E:/Git/SGD/SGDUniverseAltSpace/SGDUniverseAltSpace
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55508
-Successfully changed project path to: C:/Users/Zande/Desktop/SGDUniverseAltSpace/SGDUniverseAltSpace
-C:/Users/Zande/Desktop/SGDUniverseAltSpace/SGDUniverseAltSpace
+61426
+Successfully changed project path to: E:/Git/SGD/SGDUniverseAltSpace/SGDUniverseAltSpace
+E:/Git/SGD/SGDUniverseAltSpace/SGDUniverseAltSpace
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 48.33 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 77.86 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.18f1 (a7d1c678663c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Zande/Desktop/SGDUniverseAltSpace/SGDUniverseAltSpace/Assets
+[Subsystems] Discovering subsystems at path E:/Git/SGD/SGDUniverseAltSpace/SGDUniverseAltSpace/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 3080 Laptop GPU (ID=0x24dc)
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
     Vendor:   
-    VRAM:     16202 MB
-    Driver:   30.0.15.1215
+    VRAM:     5980 MB
+    Driver:   30.0.14.9729
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56016
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56440
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001519 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
+Registered in 0.004485 seconds.
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 51.74 ms, found 2 plugins.
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 50.86 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.034 seconds
+- Completed reload, in  2.301 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1035ms)
-		BeginReloadAssembly (52ms)
+	ReloadAssembly (2301ms)
+		BeginReloadAssembly (61ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (413ms)
-			LoadAssemblies (51ms)
+		EndReloadAssembly (452ms)
+			LoadAssemblies (60ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (143ms)
+			SetupTypeCache (158ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (27ms)
-			SetupLoadedEditorAssemblies (171ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (184ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
+				InitializePlatformSupportModulesInManaged (8ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (52ms)
-				BeforeProcessingInitializeOnLoad (16ms)
-				ProcessInitializeOnLoadAttributes (74ms)
-				ProcessInitializeOnLoadMethodAttributes (25ms)
+				RefreshPlugins (51ms)
+				BeforeProcessingInitializeOnLoad (17ms)
+				ProcessInitializeOnLoadAttributes (80ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002542 seconds.
+Registered in 0.003520 seconds.
 Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 50.58 ms, found 2 plugins.
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 49.56 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.014 seconds
+- Completed reload, in  1.248 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1014ms)
-		BeginReloadAssembly (128ms)
+	ReloadAssembly (1249ms)
+		BeginReloadAssembly (159ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
+			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (22ms)
-		EndReloadAssembly (831ms)
-			LoadAssemblies (77ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (1023ms)
+			LoadAssemblies (101ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (274ms)
+			SetupTypeCache (315ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (41ms)
-			SetupLoadedEditorAssemblies (324ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (429ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
+				InitializePlatformSupportModulesInManaged (8ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (51ms)
-				BeforeProcessingInitializeOnLoad (79ms)
-				ProcessInitializeOnLoadAttributes (182ms)
-				ProcessInitializeOnLoadMethodAttributes (5ms)
-				AfterProcessingInitializeOnLoad (4ms)
+				RefreshPlugins (50ms)
+				BeforeProcessingInitializeOnLoad (88ms)
+				ProcessInitializeOnLoadAttributes (268ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (9ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (6ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
 Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2549 Unused Serialized files (Serialized files now loaded: 0)
@@ -120,7 +129,7 @@ System memory in use before: 114.1 MB.
 System memory in use after: 114.3 MB.
 
 Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2986.
-Total: 3.219300 ms (FindLiveObjects: 0.209500 ms CreateObjectMapping: 0.076100 ms MarkObjects: 2.843600 ms  DeleteObjects: 0.088800 ms)
+Total: 3.217200 ms (FindLiveObjects: 0.271200 ms CreateObjectMapping: 0.155500 ms MarkObjects: 2.693100 ms  DeleteObjects: 0.096400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -129,7 +138,6 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
@@ -137,7 +145,103 @@ AssetImportParameters requested are different than current active one (requested
 Received Import Request.
   path: Assets/Readme.asset
   artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b1cb48c2cb3f2ab11a55bbe97c386b7') in 0.038310 seconds 
-  Import took 0.042509 seconds .
+Start importing Assets/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5689531120d6f23896d32d9801f8e53c') in 0.045741 seconds 
+  Import took 0.051196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 172.407607 seconds.
+  path: Assets/StudentAssets
+  artifactKey: Guid(990f5c2df70993f4987a388ca178996a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets using Guid(990f5c2df70993f4987a388ca178996a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc2ccaf4404b7a59e7ce5576716cdfdd') in 0.009273 seconds 
+  Import took 0.014875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.087250 seconds.
+  path: Assets/StudentAssets/Josh Lubert
+  artifactKey: Guid(ad9695c60912e2148a133e51d8caa086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert using Guid(ad9695c60912e2148a133e51d8caa086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f498ed3f7d985b129bc40ec3958057fe') in 0.006475 seconds 
+  Import took 0.011953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000717 seconds.
+  path: Assets/StudentAssets/Josh Lubert
+  artifactKey: Guid(ad9695c60912e2148a133e51d8caa086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert using Guid(ad9695c60912e2148a133e51d8caa086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f498ed3f7d985b129bc40ec3958057fe') in 0.002590 seconds 
+  Import took 0.007654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.083154 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Created Assets
+  artifactKey: Guid(22a931d5163330646a6d3597a96534ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Created Assets using Guid(22a931d5163330646a6d3597a96534ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0333d461ae0ce26be3524a2b249a622') in 0.006884 seconds 
+  Import took 0.013213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.616796 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Free Asseys
+  artifactKey: Guid(f618759a227110743a2c2e422eb5efe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Free Asseys using Guid(f618759a227110743a2c2e422eb5efe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e103c8ad727a2aec13c8d5f0a83718f') in 0.006922 seconds 
+  Import took 0.010966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.025379 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Free Assets
+  artifactKey: Guid(6c7e6497acd01ee448132e0c532e4681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Free Assets using Guid(6c7e6497acd01ee448132e0c532e4681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e2b38340869d8a8e8cf60a687678370') in 0.007552 seconds 
+  Import took 0.011991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.956763 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Materials
+  artifactKey: Guid(ec78407f39019cc48afb645fa897f666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Materials using Guid(ec78407f39019cc48afb645fa897f666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfb39dffe4ffcb112d0c6f197d97a174') in 0.005859 seconds 
+  Import took 0.009774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.897643 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Created Assets/Stairs.fbx
+  artifactKey: Guid(3852fde81fd630a4f8fcae3fefe62132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Created Assets/Stairs.fbx using Guid(3852fde81fd630a4f8fcae3fefe62132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '466d65c2b0ef9bb8c8aef41c287b603a') in 0.235372 seconds 
+  Import took 0.239848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.733836 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Materials/Wooden Stairs Texture.jpg
+  artifactKey: Guid(bde9c6fb2350ccc4ab89a2d9124c80c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Materials/Wooden Stairs Texture.jpg using Guid(bde9c6fb2350ccc4ab89a2d9124c80c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb6cc6103d0fe4a9a97c81a8d17aee53') in 0.032642 seconds 
+  Import took 0.036371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001043 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Materials/Wooden Stairs Texture.jpg
+  artifactKey: Guid(bde9c6fb2350ccc4ab89a2d9124c80c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Materials/Wooden Stairs Texture.jpg using Guid(bde9c6fb2350ccc4ab89a2d9124c80c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb6cc6103d0fe4a9a97c81a8d17aee53') in 0.010723 seconds 
+  Import took 0.017919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.860081 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Materials/Materials
+  artifactKey: Guid(7b94fb432440cc64fac47bd15b13823b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Materials/Materials using Guid(7b94fb432440cc64fac47bd15b13823b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe60c191de9639057541dcff114310ec') in 0.002384 seconds 
+  Import took 0.007199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044778 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Materials/Materials/Wooden Stairs Texture.mat
+  artifactKey: Guid(53f03442afc0919418680abd91a1b97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Materials/Materials/Wooden Stairs Texture.mat using Guid(53f03442afc0919418680abd91a1b97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4112d3af48a48bf81a3a81c85a2c592c') in 0.015181 seconds 
+  Import took 0.019249 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
