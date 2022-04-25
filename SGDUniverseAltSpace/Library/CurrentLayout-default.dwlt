@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 90
+  controlID: 37
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 117
+  controlID: 76
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 118
+  controlID: 77
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/StudentAssets/Josh Lubert/Free Assets/pool-table-set/textures
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/StudentAssets/Josh Lubert/Free Assets/pool-table-set/textures
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\Git\SGD\SGDUniverseAltSpace\SGDUniverseAltSpace
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 747}
-    m_SelectedIDs: 1e490000
-    m_LastClickedID: 18718
-    m_ExpandedIDs: 00000000c6460000c8460000ca460000cc460000d6460000da460000dc460000de460000f8460000384700005447000074470000d2470000284800005448000086480000dc4800001c49000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 124b0000
+    m_LastClickedID: 19218
+    m_ExpandedIDs: 00000000984a00009a4a00009c4a00009e4a0000a04a0000a24a0000a44a0000a64a0000a84a0000aa4a0000ac4a0000ae4a0000b04a0000b24a0000b44a00000e4b00002c4b0000364b00003c4b00005c4b0000644b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c6460000c8460000ca460000cc460000
+    m_ExpandedIDs: 00000000984a00009a4a00009c4a00009e4a0000a04a0000a24a0000a44a0000a64a0000a84a0000aa4a0000ac4a0000ae4a0000b04a0000b24a0000b44a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -481,9 +481,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: ae4b0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 8cfaffff9c460000
+      m_ExpandedIDs: 00ebffff10ebffff50fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -543,9 +543,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -5.014955, y: 0.16344936, z: -4.4073234}
+    m_Target: {x: -3.240519, y: 0.90572035, z: -3.2962558}
     speed: 2
-    m_Value: {x: -5.014955, y: 0.16344936, z: -4.4073234}
+    m_Value: {x: -3.240519, y: 0.90572035, z: -3.2962558}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -592,13 +592,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.20421377, y: 0.22103314, z: -0.047400456, w: -0.9524785}
+    m_Target: {x: -0.041077808, y: -0.17147233, z: 0.0071503757, w: -0.98432356}
     speed: 2
-    m_Value: {x: -0.20428249, y: 0.21960187, z: -0.047093585, w: -0.952799}
+    m_Value: {x: -0.041087788, y: -0.16999276, z: 0.00708863, w: -0.9845629}
   m_Size:
-    m_Target: 0.34124252
+    m_Target: 2.0517476
     speed: 2
-    m_Value: 0.34124252
+    m_Value: 2.0517476
   m_Ortho:
     m_Target: 0
     speed: 2
