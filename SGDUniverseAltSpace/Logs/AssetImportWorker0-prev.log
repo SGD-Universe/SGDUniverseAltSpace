@@ -15,11 +15,11 @@ E:/Git/SGD/SGDUniverseAltSpace/SGDUniverseAltSpace
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-56797
+52588
 Successfully changed project path to: E:/Git/SGD/SGDUniverseAltSpace/SGDUniverseAltSpace
 E:/Git/SGD/SGDUniverseAltSpace/SGDUniverseAltSpace
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 55.27 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 49.05 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.18f1 (a7d1c678663c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Resources/UnitySubsystems
@@ -35,7 +35,7 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56160
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56684
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
@@ -43,76 +43,76 @@ Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
-Registered in 0.010590 seconds.
+Registered in 0.004890 seconds.
 Native extension for Lumin target not found
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 60.84 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 52.01 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  7.676 seconds
+- Completed reload, in  2.248 seconds
 Domain Reload Profiling:
-	ReloadAssembly (7676ms)
-		BeginReloadAssembly (69ms)
+	ReloadAssembly (2248ms)
+		BeginReloadAssembly (56ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (618ms)
-			LoadAssemblies (69ms)
+		EndReloadAssembly (460ms)
+			LoadAssemblies (55ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (172ms)
+			SetupTypeCache (166ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (36ms)
-			SetupLoadedEditorAssemblies (261ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (187ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (9ms)
+				InitializePlatformSupportModulesInManaged (8ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (61ms)
-				BeforeProcessingInitializeOnLoad (57ms)
-				ProcessInitializeOnLoadAttributes (87ms)
-				ProcessInitializeOnLoadMethodAttributes (47ms)
+				RefreshPlugins (52ms)
+				BeforeProcessingInitializeOnLoad (17ms)
+				ProcessInitializeOnLoadAttributes (82ms)
+				ProcessInitializeOnLoadMethodAttributes (28ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.158487 seconds.
+Registered in 0.003728 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for Lumin target not found
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 56.51 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 49.64 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.695 seconds
+- Completed reload, in  1.153 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1696ms)
-		BeginReloadAssembly (162ms)
+	ReloadAssembly (1154ms)
+		BeginReloadAssembly (149ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (20ms)
-		EndReloadAssembly (1464ms)
-			LoadAssemblies (487ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (923ms)
+			LoadAssemblies (97ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (407ms)
+			SetupTypeCache (306ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (49ms)
-			SetupLoadedEditorAssemblies (389ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (355ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (8ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (57ms)
-				BeforeProcessingInitializeOnLoad (94ms)
-				ProcessInitializeOnLoadAttributes (218ms)
+				RefreshPlugins (50ms)
+				BeforeProcessingInitializeOnLoad (82ms)
+				ProcessInitializeOnLoadAttributes (204ms)
 				ProcessInitializeOnLoadMethodAttributes (4ms)
 				AfterProcessingInitializeOnLoad (8ms)
 				EditorAssembliesLoaded (0ms)
@@ -121,15 +121,15 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
-Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2549 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 115.7 MB.
-System memory in use after: 115.9 MB.
+System memory in use before: 115.9 MB.
+System memory in use after: 116.1 MB.
 
 Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2993.
-Total: 3.248300 ms (FindLiveObjects: 0.231300 ms CreateObjectMapping: 0.154100 ms MarkObjects: 2.786700 ms  DeleteObjects: 0.074800 ms)
+Total: 3.460600 ms (FindLiveObjects: 0.250900 ms CreateObjectMapping: 0.138900 ms MarkObjects: 2.991800 ms  DeleteObjects: 0.077700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -143,281 +143,57 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/halo-warthog/source
-  artifactKey: Guid(90e3b016309965447819ba7bed1ffcf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/halo-warthog/source using Guid(90e3b016309965447819ba7bed1ffcf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adb428ada768e1a5ffcc8612ab2fb4bf') in 0.021686 seconds 
-  Import took 0.026495 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000167 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/halo-warthog
-  artifactKey: Guid(9df26b6a21501db46b0bba9e8635313c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/halo-warthog using Guid(9df26b6a21501db46b0bba9e8635313c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf86c4bf4aeb17bbe4b60848b4b1237a') in 0.006003 seconds 
-  Import took 0.010713 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000187 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/halo-warthog/source/Halo_WartHog_Export.fbx
-  artifactKey: Guid(a86911d1e2923db48b0558493beba028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/halo-warthog/source/Halo_WartHog_Export.fbx using Guid(a86911d1e2923db48b0558493beba028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb64e38b8cb937312dde13ef747a5cf6') in 0.536567 seconds 
-  Import took 0.541024 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.601089 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/neon-gaming-light-poster/source
-  artifactKey: Guid(72327ad0d8a4e0b4fbadd387930d58f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/neon-gaming-light-poster/source using Guid(72327ad0d8a4e0b4fbadd387930d58f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3b0a95fb1a0eba99faabfad0807411f') in 0.091145 seconds 
-  Import took 0.094767 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/neon-gaming-light-poster/source/Poster1M.fbx
-  artifactKey: Guid(43e39a72e709f3c4f9526ff675ddaf0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/neon-gaming-light-poster/source/Poster1M.fbx using Guid(43e39a72e709f3c4f9526ff675ddaf0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dc69d0a09bd21f0f4928aec49b5bedc') in 0.181571 seconds 
-  Import took 0.185413 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 58.168079 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/neon-gaming-light-poster/textures/PosterMaterial.png
-  artifactKey: Guid(a6615c6fc6f0a0944bcd2629b435f8b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/neon-gaming-light-poster/textures/PosterMaterial.png using Guid(a6615c6fc6f0a0944bcd2629b435f8b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebb6f4ce3b0b66c581a3cf84d09501b0') in 0.034745 seconds 
-  Import took 0.039483 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.829770 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/source
-  artifactKey: Guid(e5f79d68ae9d827439d4f4252d862fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/source using Guid(e5f79d68ae9d827439d4f4252d862fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ee18f85a2cedb07bde3cd7e5e8236aa') in 0.002175 seconds 
-  Import took 0.006138 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.046511 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/source/JUKEBOX OBJ FILE.obj
-  artifactKey: Guid(996836787a53cbc4a8a3ab307bc20ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/source/JUKEBOX OBJ FILE.obj using Guid(996836787a53cbc4a8a3ab307bc20ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef2d11c512e9d1300562ede2c4f8d5de') in 0.051036 seconds 
-  Import took 0.055003 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 39.919571 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/textures/ALBEDO_MAP.png
-  artifactKey: Guid(7b2807a58f67977448be9a453615153a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/textures/ALBEDO_MAP.png using Guid(7b2807a58f67977448be9a453615153a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16b1942a4f70af375e5b70e2a52a07e0') in 0.011406 seconds 
-  Import took 0.015175 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000199 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/textures/OPACITY_MAP.png
-  artifactKey: Guid(4c1de823bfbe8b5478a49b9697a06b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/textures/OPACITY_MAP.png using Guid(4c1de823bfbe8b5478a49b9697a06b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd46e09d08a5360dfcd9a7fed008827f8') in 0.097575 seconds 
-  Import took 0.100868 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/textures/NORMAL_MAP.png
-  artifactKey: Guid(600d72fa8a3ad1247839fce3303d51e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/textures/NORMAL_MAP.png using Guid(600d72fa8a3ad1247839fce3303d51e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '249549e95abc1076894abe78674454be') in 0.025816 seconds 
-  Import took 0.029136 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/textures/METALLIC_MAP.png
-  artifactKey: Guid(ffd20a13b46561144a1bfa70fb849d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/textures/METALLIC_MAP.png using Guid(ffd20a13b46561144a1bfa70fb849d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb9df9a1214be3dd5f4dcf71741f9c66') in 0.012104 seconds 
-  Import took 0.015921 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000256 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/textures/EMMISIVE_MAP.png
-  artifactKey: Guid(436b061a53f6ab344b60f5a2ab380208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/textures/EMMISIVE_MAP.png using Guid(436b061a53f6ab344b60f5a2ab380208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b448dbd35e02c110bf5660140b1dddbb') in 0.011291 seconds 
-  Import took 0.015369 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000204 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/textures/OCLUSSION_MAP.png
-  artifactKey: Guid(837dd3714e071d54fba0025a82f6595f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/textures/OCLUSSION_MAP.png using Guid(837dd3714e071d54fba0025a82f6595f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdc5572707b88d578ab7dc2174f3c9d3') in 0.011296 seconds 
-  Import took 0.014920 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000177 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/textures/ROUGNESS_MAP.png
-  artifactKey: Guid(94f5f4fcc83ae044da8de38f187f196c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/textures/ROUGNESS_MAP.png using Guid(94f5f4fcc83ae044da8de38f187f196c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08a7eb2c2c261931d1ee21bd9f87c424') in 0.012146 seconds 
-  Import took 0.016181 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000179 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/textures/OCLUSSION_MAP.png
-  artifactKey: Guid(837dd3714e071d54fba0025a82f6595f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/textures/OCLUSSION_MAP.png using Guid(837dd3714e071d54fba0025a82f6595f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdc5572707b88d578ab7dc2174f3c9d3') in 0.011516 seconds 
-  Import took 0.015254 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000218 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/textures/ROUGNESS_MAP.png
-  artifactKey: Guid(94f5f4fcc83ae044da8de38f187f196c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/jukebox (1)/textures/ROUGNESS_MAP.png using Guid(94f5f4fcc83ae044da8de38f187f196c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08a7eb2c2c261931d1ee21bd9f87c424') in 0.010497 seconds 
-  Import took 0.014179 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 27.481084 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/juke-box/source
-  artifactKey: Guid(21e545af514189b4eb384c127533ad25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/juke-box/source using Guid(21e545af514189b4eb384c127533ad25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e4a91b380d209e444642de7da9f2e0a') in 0.003176 seconds 
-  Import took 0.007453 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.054739 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/juke-box/source/MD_JukeBox_to_TX.fbx
-  artifactKey: Guid(82c0c522e90b4764da65b6bcc609c8af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/juke-box/source/MD_JukeBox_to_TX.fbx using Guid(82c0c522e90b4764da65b6bcc609c8af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bd013d56f95bf893b6918b2e7edd451') in 0.796378 seconds 
-  Import took 0.801976 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.194143 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/jukebox/source
-  artifactKey: Guid(ba5cba51324b2fe4fbf7ac1824074797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/jukebox/source using Guid(ba5cba51324b2fe4fbf7ac1824074797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d555f87e115e98dca94691ccde7a26e') in 0.002184 seconds 
-  Import took 0.006562 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.070053 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/jukebox/source/jukebox.obj
-  artifactKey: Guid(ee94eb85be77aa649a07c4dae2a03a39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/jukebox/source/jukebox.obj using Guid(ee94eb85be77aa649a07c4dae2a03a39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eab1d290675e39b0f397b7f02c23769') in 0.022418 seconds 
-  Import took 0.026195 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 21.270598 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/jukebox/textures/jukebox_Albedo.png
-  artifactKey: Guid(502a14a02dfd3874abb4ea1273a734c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/jukebox/textures/jukebox_Albedo.png using Guid(502a14a02dfd3874abb4ea1273a734c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a65dfebf9eb42f294fdddbbe1b42f154') in 0.010565 seconds 
-  Import took 0.014170 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/jukebox/textures/jukebox_Metalness.png
-  artifactKey: Guid(8e3f290d7d2d7074380dd34faeec309e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/jukebox/textures/jukebox_Metalness.png using Guid(8e3f290d7d2d7074380dd34faeec309e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d5598b8b7258faca4db8522386b72ac') in 0.011816 seconds 
-  Import took 0.015287 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003450 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/jukebox/textures/jukebox_Metalness.png
-  artifactKey: Guid(8e3f290d7d2d7074380dd34faeec309e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/jukebox/textures/jukebox_Metalness.png using Guid(8e3f290d7d2d7074380dd34faeec309e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d5598b8b7258faca4db8522386b72ac') in 0.008282 seconds 
-  Import took 0.012485 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 19.267524 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/bean-bag/source
-  artifactKey: Guid(643dd26c83308e24aa3a787826530e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/bean-bag/source using Guid(643dd26c83308e24aa3a787826530e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '419452433bb66a48efc7a8d46ba1934c') in 0.002484 seconds 
-  Import took 0.006942 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.039410 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/bean-bag/source/bean bag.fbx
-  artifactKey: Guid(c431a6afd6b89f74ea1bcdc307ca7f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/bean-bag/source/bean bag.fbx using Guid(c431a6afd6b89f74ea1bcdc307ca7f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a686f5cfeae374a3aa15cdbdbaf074f9') in 0.038266 seconds 
-  Import took 0.042075 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 556.774513 seconds.
-  path: Assets/Settings
-  artifactKey: Guid(0735c275001a2c84dafdb30deced5d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Settings using Guid(0735c275001a2c84dafdb30deced5d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93acb47a41d734d0e1a9166c2e42237b') in 0.007524 seconds 
-  Import took 0.036638 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.096739 seconds.
-  path: Assets/Scenes/TestScene.unity
-  artifactKey: Guid(59c48b173ed18ec4283ec6a29a64ea65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/TestScene.unity using Guid(59c48b173ed18ec4283ec6a29a64ea65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea75a0b10aca4e115e33f87b9d6ba013') in 0.025519 seconds 
-  Import took 0.062434 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 862.248988 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/computer-desk.zip
-  artifactKey: Guid(f697cf1108d213b4cb5b91ca5be5f4c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/computer-desk.zip using Guid(f697cf1108d213b4cb5b91ca5be5f4c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b47d88dca5217654df57905cdb327e9') in 0.011964 seconds 
-  Import took 0.082239 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 44.668092 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/computer-desk
-  artifactKey: Guid(6487efd694c64e943bea2356821e1bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/computer-desk using Guid(6487efd694c64e943bea2356821e1bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f59b742334984113bfb116cb277b598d') in 0.003521 seconds 
-  Import took 0.008004 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 138.902056 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/computer-desk/source
-  artifactKey: Guid(049d04d96605dad42ac70f42dbb3b1be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/computer-desk/source using Guid(049d04d96605dad42ac70f42dbb3b1be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84dddf3614170349fa41766da0b8335e') in 0.005144 seconds 
-  Import took 0.046050 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000163 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/computer-desk/source/Mini_CompDesk_01.fbx
-  artifactKey: Guid(e042060d4805f5b42a2e9958be1d497a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/computer-desk/source/Mini_CompDesk_01.fbx using Guid(e042060d4805f5b42a2e9958be1d497a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca50e7ca685a2a9f8562d82a0ec63f38') in 0.035556 seconds 
-  Import took 0.126102 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 41.846272 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/computer-desk/textures/Mini_CompDesk_01_Material_BaseColor2.png
-  artifactKey: Guid(5fbfe9d2ae0607a45bdd436a3550d8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/computer-desk/textures/Mini_CompDesk_01_Material_BaseColor2.png using Guid(5fbfe9d2ae0607a45bdd436a3550d8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f10825e19fa9b8b6459318fe84b0eb4') in 0.034210 seconds 
-  Import took 0.134518 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000173 seconds.
   path: Assets/StudentAssets/Josh Lubert/Free Assets/computer-desk/textures/Mini_CompDesk_01_Material_Metallic.png
   artifactKey: Guid(5be2deb642484aa46ab0e257836ebbea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/computer-desk/textures/Mini_CompDesk_01_Material_Metallic.png using Guid(5be2deb642484aa46ab0e257836ebbea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7170c716481ff94d5bef73a361d83b03') in 0.020353 seconds 
-  Import took 0.104945 seconds .
+Start importing Assets/StudentAssets/Josh Lubert/Free Assets/computer-desk/textures/Mini_CompDesk_01_Material_Metallic.png using Guid(5be2deb642484aa46ab0e257836ebbea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0966a626802d1f3726dd57efaf208b36') in 0.100939 seconds 
+  Import took 0.104505 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000193 seconds.
+  Time since last request: 0.000205 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Free Assets/computer-desk/textures/Mini_CompDesk_01_Material_BaseColor2.png
+  artifactKey: Guid(5fbfe9d2ae0607a45bdd436a3550d8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Free Assets/computer-desk/textures/Mini_CompDesk_01_Material_BaseColor2.png using Guid(5fbfe9d2ae0607a45bdd436a3550d8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da1506ac9f82b1d6907d1144cb4e794d') in 0.026625 seconds 
+  Import took 0.031580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
   path: Assets/StudentAssets/Josh Lubert/Free Assets/computer-desk/textures/Mini_CompDesk_01_Material_Roughness.png
   artifactKey: Guid(1046ae8449d964949bc5ee6f7226cfb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/computer-desk/textures/Mini_CompDesk_01_Material_Roughness.png using Guid(1046ae8449d964949bc5ee6f7226cfb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6cdf0a0f8d6885b568f4de436142c5f') in 0.019543 seconds 
-  Import took 0.065921 seconds .
+Start importing Assets/StudentAssets/Josh Lubert/Free Assets/computer-desk/textures/Mini_CompDesk_01_Material_Roughness.png using Guid(1046ae8449d964949bc5ee6f7226cfb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68d93996089a0e4accf4182323017f12') in 0.024899 seconds 
+  Import took 0.028962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.358300 seconds.
+  path: Assets/Scenes/TestScene.unity
+  artifactKey: Guid(59c48b173ed18ec4283ec6a29a64ea65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/TestScene.unity using Guid(59c48b173ed18ec4283ec6a29a64ea65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38fbff91004e9b4a1759950275db91b1') in 0.005660 seconds 
+  Import took 0.010056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.980310 seconds.
+  path: Assets/Scenes/Stairs Left And Right.fbx
+  artifactKey: Guid(02fffac43d8fc374094a7cbc40b77762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stairs Left And Right.fbx using Guid(02fffac43d8fc374094a7cbc40b77762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f828570c7530e173b2c7f73362917637') in 0.501002 seconds 
+  Import took 0.505957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.811170 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Created Assets/Stairs.fbx
+  artifactKey: Guid(3852fde81fd630a4f8fcae3fefe62132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Created Assets/Stairs.fbx using Guid(3852fde81fd630a4f8fcae3fefe62132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf1affaa0cceb89a7df072e4f25295f9') in 0.102782 seconds 
+  Import took 0.106790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.596550 seconds.
+  path: Assets/Block Out SGD Building.fbx
+  artifactKey: Guid(0482b3afd4ad9c84792dcf306a5ac9d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Block Out SGD Building.fbx using Guid(0482b3afd4ad9c84792dcf306a5ac9d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd9dee6c7b5cc7b960c9b78384b7a9c4') in 0.061773 seconds 
+  Import took 0.065858 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
