@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1037
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 17
+  controlID: 114
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 46
+  controlID: 139
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 47
+  controlID: 140
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/StudentAssets/Josh Lubert
+    - Assets/StudentAssets/Josh Lubert/Retro Free Assets/walkman/textures
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/StudentAssets/Josh Lubert
+  - Assets/StudentAssets/Josh Lubert/Retro Free Assets/walkman/textures
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\Git\SGD\SGDUniverseAltSpace\SGDUniverseAltSpace
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 303}
-    m_SelectedIDs: ce580000
-    m_LastClickedID: 22734
-    m_ExpandedIDs: 0000000086580000885800008a5800008c5800008e58000090580000925800009458000096580000985800009a5800009c5800009e580000a0580000a2580000ca580000ce5800008a590000965a0000ae5a00001e5b0000305b0000525b0000765b00009e5b0000c25b0000f65b00001c5d0000285d0000a85d0000e05d0000fc5d0000305e0000d65e0000de5e0000805f00000260000000ca9a3b
+    scrollPos: {x: 0, y: 363}
+    m_SelectedIDs: 706c0000
+    m_LastClickedID: 27760
+    m_ExpandedIDs: 00000000ea550000ec550000ee550000f0550000f4550000f6550000f8550000fa550000fe5500000056000002560000045600004a5600004c560000125a00005c5a0000625a0000665a0000685a00006a5a0000705a0000725a0000825a0000085d00000c5d0000105d0000145d0000185d00002e660000f46600003c680000406800004a680000da6a0000506c0000766c00007c6c00007e6c0000806c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000086580000885800008a5800008c5800008e58000090580000925800009458000096580000985800009a5800009c5800009e580000a0580000a2580000
+    m_ExpandedIDs: 00000000ea550000ec550000ee550000f0550000f2550000f4550000f6550000f8550000fa550000fc550000fe550000005600000256000004560000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -480,10 +480,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 96}
+      scrollPos: {x: 0, y: 32}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 3e9effffe0a6ffffe4a6fffff4a6ffff00a7ffff04a7ffff08a7ffffc0dbffffd6eaffff4c580000
+      m_ExpandedIDs: 3081ffff0a87ffff0e95ffff62a4fffffca5ffffdeadffff48b1ffff50fbffff08460000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -543,9 +543,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -4.0511622, y: 2.4231977, z: 4.3929567}
+    m_Target: {x: -1.8013963, y: 3.4463408, z: 9.170387}
     speed: 2
-    m_Value: {x: -4.0511622, y: 2.4231977, z: 4.3929567}
+    m_Value: {x: -1.8013963, y: 3.4463408, z: 9.170387}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -592,13 +592,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.031311624, y: -0.67066014, z: -0.028415916, w: -0.74066603}
+    m_Target: {x: 0.0016210406, y: -0.9948483, z: -0.015207707, w: -0.10128127}
     speed: 2
-    m_Value: {x: 0.03126648, y: -0.671717, z: -0.028460588, w: -0.73960036}
+    m_Value: {x: 0.0016436736, y: -0.9945884, z: -0.015203624, w: -0.10276238}
   m_Size:
-    m_Target: 3.6440773
+    m_Target: 4.205552
     speed: 2
-    m_Value: 3.6440773
+    m_Value: 4.205552
   m_Ortho:
     m_Target: 0
     speed: 2

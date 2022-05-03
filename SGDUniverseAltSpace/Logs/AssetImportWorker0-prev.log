@@ -1,149 +1,138 @@
-Unity Editor version:    2020.3.18f1 (a7d1c678663c)
-Branch:                  2020.3/staging
-Build type:              Release
-Batch mode:              YES
-System name:             Linux
-Distro version:          #123-Ubuntu SMP Fri Apr 8 09:10:54 UTC 2022
-Kernel version:          5.4.0-109-generic
-Architecture:            x86_64
-Available memory:        15916 MB
 Using pre-set license
-Pro License: NO
-Desktop is 1920 x 1080 @ 60 Hz
+Built from '2020.3/staging' branch; Version is '2020.3.18f1 (a7d1c678663c) revision 10998214'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1645; Version 2009; 64bit' Language: 'en' Physical Memory: 16316 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
 COMMAND LINE ARGUMENTS:
-Unity
+C:\Program Files\Unity\Hub\Editor\2020.3.18f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-/home/evasolch/SGDUniverseAltSpace/SGDUniverseAltSpace
+E:/Git/SGD/SGDUniverseAltSpace/SGDUniverseAltSpace
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-44227
-Successfully changed project path to: /home/evasolch/SGDUniverseAltSpace/SGDUniverseAltSpace
-/home/evasolch/SGDUniverseAltSpace/SGDUniverseAltSpace
+63467
+Successfully changed project path to: E:/Git/SGD/SGDUniverseAltSpace/SGDUniverseAltSpace
+E:/Git/SGD/SGDUniverseAltSpace/SGDUniverseAltSpace
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 41.25 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 52.30 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.18f1 (a7d1c678663c)
-[Subsystems] Discovering subsystems at path /home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path /home/evasolch/SGDUniverseAltSpace/SGDUniverseAltSpace/Assets
-GLX Extensions: GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_visual_info GLX_EXT_visual_rating GLX_EXT_import_context GLX_SGI_video_sync GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGI_swap_control GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_buffer_age GLX_ARB_create_context GLX_ARB_create_context_profile GLX_NV_float_buffer GLX_ARB_fbconfig_float GLX_EXT_texture_from_pixmap GLX_EXT_framebuffer_sRGB GLX_NV_copy_image GLX_EXT_create_context_es_profile GLX_EXT_create_context_es2_profile GLX_ARB_create_context_no_error GLX_ARB_create_context_robustness GLX_NV_delay_before_swap GLX_EXT_stereo_tree GLX_ARB_context_flush_control GLX_NV_robustness_video_memory_purge GLX_NV_multigpu_context 
-Renderer: NVIDIA GeForce GTX 1660 Ti/PCIe/SSE2
-Vendor:   NVIDIA Corporation
-Version:  4.5.0 NVIDIA 470.103.01
-GLES:     0
- GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragmen
-t_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoki
-ng_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_A
-RB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_t
-ranspose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters 
-GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_multiview_texture_multisample GL_EXT_multiview_timer_query GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_post_depth_coverage GL_EXT_provoking_vertex GL_EXT_raster_multisample GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_sparse_texture2 GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_lod G
-L_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_x11_sync_object GL_EXT_import_sync_object GL_NV_robustness_video_memory_purge GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_fd GL_NV_memory_object_sparse GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_fd GL_NV_timeline_semaphore GL_KHR_shader_subgroup GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_
-blend_equation_advanced_coherent GL_NVX_blend_equation_advanced_multi_draw_buffers GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_clip_space_w_scaling GL_NV_command_list GL_NV_compute_program5 GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_conservative_raster_pre_snap GL_NV_conservative_raster_pre_snap_triangles GL_NV_conservative_raster_underestimation GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_barycentric GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_geometry_sha
-der_passthrough GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_memory_attachment GL_NV_mesh_shader GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_representative_fragment_test GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_scissor_exclusive GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_float64 GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_shader_subgroup_partitioned GL_NV_shader_texture
-_footprint GL_NV_shading_rate_image GL_NV_stereo_view_rendering GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vdpau_interop GL_NV_vdpau_interop2 GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NV_gpu_multicast GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap
- GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum
-OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 439930680
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Git/SGD/SGDUniverseAltSpace/SGDUniverseAltSpace/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   30.0.15.1215
 Initialize mono
-Mono path[0] = '/home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Managed'
-Mono path[1] = '/home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = '/home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56258
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56368
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: /home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Register platform support module: /home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: /home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.001391 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
+Registered in 0.004417 seconds.
+Native extension for Lumin target not found
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 35.91 ms, found 0 plugins.
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 48.09 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.971 seconds
+- Completed reload, in  2.181 seconds
 Domain Reload Profiling:
-	ReloadAssembly (971ms)
-		BeginReloadAssembly (25ms)
+	ReloadAssembly (2181ms)
+		BeginReloadAssembly (57ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (350ms)
-			LoadAssemblies (24ms)
+		EndReloadAssembly (426ms)
+			LoadAssemblies (55ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (118ms)
+			SetupTypeCache (152ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (25ms)
-			SetupLoadedEditorAssemblies (165ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (172ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
+				InitializePlatformSupportModulesInManaged (7ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (36ms)
-				BeforeProcessingInitializeOnLoad (7ms)
-				ProcessInitializeOnLoadAttributes (96ms)
-				ProcessInitializeOnLoadMethodAttributes (22ms)
+				RefreshPlugins (48ms)
+				BeforeProcessingInitializeOnLoad (16ms)
+				ProcessInitializeOnLoadAttributes (75ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001423 seconds.
+Registered in 0.003403 seconds.
 Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 36.96 ms, found 0 plugins.
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 49.71 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.843 seconds
+- Completed reload, in  1.113 seconds
 Domain Reload Profiling:
-	ReloadAssembly (843ms)
-		BeginReloadAssembly (91ms)
+	ReloadAssembly (1114ms)
+		BeginReloadAssembly (143ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
+			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (13ms)
-		EndReloadAssembly (708ms)
-			LoadAssemblies (52ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (910ms)
+			LoadAssemblies (94ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (226ms)
+			SetupTypeCache (293ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (38ms)
-			SetupLoadedEditorAssemblies (295ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (358ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
+				InitializePlatformSupportModulesInManaged (7ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (37ms)
-				BeforeProcessingInitializeOnLoad (55ms)
-				ProcessInitializeOnLoadAttributes (191ms)
+				RefreshPlugins (50ms)
+				BeforeProcessingInitializeOnLoad (82ms)
+				ProcessInitializeOnLoadAttributes (206ms)
 				ProcessInitializeOnLoadMethodAttributes (4ms)
-				AfterProcessingInitializeOnLoad (4ms)
+				AfterProcessingInitializeOnLoad (8ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (5ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
-Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2549 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 106.1 MB.
-System memory in use after: 106.3 MB.
+System memory in use before: 115.9 MB.
+System memory in use after: 116.1 MB.
 
 Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2993.
-Total: 4.420436 ms (FindLiveObjects: 0.249477 ms CreateObjectMapping: 0.111711 ms MarkObjects: 3.958423 ms  DeleteObjects: 0.099972 ms)
+Total: 3.678900 ms (FindLiveObjects: 0.218400 ms CreateObjectMapping: 0.109400 ms MarkObjects: 3.276200 ms  DeleteObjects: 0.073800 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
@@ -156,87 +145,967 @@ AssetImportParameters requested are different than current active one (requested
 Received Import Request.
   path: Assets/Readme.asset
   artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b1cb48c2cb3f2ab11a55bbe97c386b7') in 0.017531 seconds 
-  Import took 0.020681 seconds .
+Start importing Assets/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5689531120d6f23896d32d9801f8e53c') in 0.040591 seconds 
+  Import took 0.044329 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 188.115725 seconds.
+  Time since last request: 44.198573 seconds.
+  path: Assets/StudentAssets
+  artifactKey: Guid(990f5c2df70993f4987a388ca178996a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets using Guid(990f5c2df70993f4987a388ca178996a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc2ccaf4404b7a59e7ce5576716cdfdd') in 0.006328 seconds 
+  Import took 0.010214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.551184 seconds.
   path: Assets/StudentAssets/Jonathan
   artifactKey: Guid(69ac3bff14a38e243b2c8cfda4c16493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan using Guid(69ac3bff14a38e243b2c8cfda4c16493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '955f6d1d3c48738e1725dac43770b15b') in 0.001928 seconds 
-  Import took 0.006917 seconds .
+Start importing Assets/StudentAssets/Jonathan using Guid(69ac3bff14a38e243b2c8cfda4c16493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e460434ba2d078a375ed6781e84a9d17') in 0.005830 seconds 
+  Import took 0.009397 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.005720 seconds.
-  path: Assets/StudentAssets/Jonathan
-  artifactKey: Guid(69ac3bff14a38e243b2c8cfda4c16493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan using Guid(69ac3bff14a38e243b2c8cfda4c16493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '955f6d1d3c48738e1725dac43770b15b') in 0.000602 seconds 
-  Import took 0.002862 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.387687 seconds.
+  Time since last request: 0.726758 seconds.
   path: Assets/StudentAssets/Jonathan/Free Assets
   artifactKey: Guid(27060adf507d2a34db79d42486710c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets using Guid(27060adf507d2a34db79d42486710c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1dc8a524c75f62c66f9e76b675a9c40') in 0.000949 seconds 
-  Import took 0.003682 seconds .
+Start importing Assets/StudentAssets/Jonathan/Free Assets using Guid(27060adf507d2a34db79d42486710c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8c4d98eddc1e15343786667c08672fc') in 0.006702 seconds 
+  Import took 0.010655 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 34.399383 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_obja_spc.png
-  artifactKey: Guid(5fa1bb038ce79d061996b61da30a281c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_obja_spc.png using Guid(5fa1bb038ce79d061996b61da30a281c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4632563138d19f85d5d99e1ffb581995') in 0.020806 seconds 
-  Import took 0.023874 seconds .
+  Time since last request: 0.000499 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets
+  artifactKey: Guid(27060adf507d2a34db79d42486710c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets using Guid(27060adf507d2a34db79d42486710c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8c4d98eddc1e15343786667c08672fc') in 0.002613 seconds 
+  Import took 0.006324 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.012175 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_obja_spc.png
-  artifactKey: Guid(5fa1bb038ce79d061996b61da30a281c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_obja_spc.png using Guid(5fa1bb038ce79d061996b61da30a281c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4632563138d19f85d5d99e1ffb581995') in 0.004345 seconds 
-  Import took 0.007139 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.039878 seconds.
+  Time since last request: 0.027438 seconds.
   path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_obja_col.png
   artifactKey: Guid(7f38c769a70813cda98c74f8c6a4aa24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_obja_col.png using Guid(7f38c769a70813cda98c74f8c6a4aa24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce3c348f4c812db2e356e6a71da807c3') in 0.007545 seconds 
-  Import took 0.010544 seconds .
+Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_obja_col.png using Guid(7f38c769a70813cda98c74f8c6a4aa24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22250e39c6a200fc7dd553796884a3e8') in 0.063928 seconds 
+  Import took 0.067796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_switch.dae
+  artifactKey: Guid(e8cfb1809f9ed27b3b9983f6816cc259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_switch.dae using Guid(e8cfb1809f9ed27b3b9983f6816cc259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c72894ae32a5c5a15230ab6ce5c91517') in 0.150487 seconds 
+  Import took 0.154198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_objb_spc.png
+  artifactKey: Guid(8f17056c305d7d758bf98a21962997c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_objb_spc.png using Guid(8f17056c305d7d758bf98a21962997c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a3280b3b44130f94564008728d7d0a3') in 0.009699 seconds 
+  Import took 0.013120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000841 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_objb_col.png
+  artifactKey: Guid(d4666092b9272828bb2a92804305e7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_objb_col.png using Guid(d4666092b9272828bb2a92804305e7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8bb79e29d7a62a6fb8b1554ca704530') in 0.010519 seconds 
+  Import took 0.014958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_obja_spc.png
+  artifactKey: Guid(5fa1bb038ce79d061996b61da30a281c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_obja_spc.png using Guid(5fa1bb038ce79d061996b61da30a281c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1024ac122487883adafdbff65b5e8e4') in 0.009321 seconds 
+  Import took 0.012794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.613699 seconds.
+  path: Assets/StudentAssets/Josh Lubert
+  artifactKey: Guid(ad9695c60912e2148a133e51d8caa086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert using Guid(ad9695c60912e2148a133e51d8caa086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f498ed3f7d985b129bc40ec3958057fe') in 0.005780 seconds 
+  Import took 0.010816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000492 seconds.
+  path: Assets/StudentAssets/Josh Lubert
+  artifactKey: Guid(ad9695c60912e2148a133e51d8caa086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert using Guid(ad9695c60912e2148a133e51d8caa086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f498ed3f7d985b129bc40ec3958057fe') in 0.002519 seconds 
+  Import took 0.007056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.024177 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Free Assets
+  artifactKey: Guid(6c7e6497acd01ee448132e0c532e4681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Free Assets using Guid(6c7e6497acd01ee448132e0c532e4681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '111df27c41f9deccb69e0601464ec26b') in 0.002593 seconds 
+  Import took 0.006506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.460621 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset
+  artifactKey: Guid(3d4e3ccbb9000b04ea58e7fabe4949ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset using Guid(3d4e3ccbb9000b04ea58e7fabe4949ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93641b1aff642074662849255b5de471') in 0.005610 seconds 
+  Import took 0.009178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.680743 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/crafting-table
+  artifactKey: Guid(03d7610c2176faa4195ef8d40e355ba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/crafting-table using Guid(03d7610c2176faa4195ef8d40e355ba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e179102d03bf2e1dafdefe323dbbab21') in 0.005143 seconds 
+  Import took 0.008661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.721791 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/crafting-table/source
+  artifactKey: Guid(6bb127a031eed5b4ebc0ca752d9c0ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/crafting-table/source using Guid(6bb127a031eed5b4ebc0ca752d9c0ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca7f8b1ed306731b5d311b410f692fc6') in 0.005431 seconds 
+  Import took 0.009026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.592605 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/crafting-table/source/Crafting_table.obj
+  artifactKey: Guid(dd90f70660e97ce4d9333e3d93b4a582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/crafting-table/source/Crafting_table.obj using Guid(dd90f70660e97ce4d9333e3d93b4a582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab3800c92751e257bfa6e71eb94b334d') in 0.032496 seconds 
+  Import took 0.036004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.105488 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/crafting-table/textures
+  artifactKey: Guid(337e0503c1454d94594a95797277db2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/crafting-table/textures using Guid(337e0503c1454d94594a95797277db2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaff81ff2d95c3228607ea9b31f8c1ef') in 0.006256 seconds 
+  Import took 0.010038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.072857 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/crafting-table/textures/crafting_table_front.png
+  artifactKey: Guid(789734b450a47a1459a59b01f105139c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/crafting-table/textures/crafting_table_front.png using Guid(789734b450a47a1459a59b01f105139c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63454bcb4b5f4bd7a902ff80a09b83b7') in 0.010592 seconds 
+  Import took 0.014349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/crafting-table/textures/crafting_table_top.png
+  artifactKey: Guid(4ced8f6eebb4db145bd59d3d63019603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/crafting-table/textures/crafting_table_top.png using Guid(4ced8f6eebb4db145bd59d3d63019603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83207b74ac5ee8a298d5912dc8949e93') in 0.011821 seconds 
+  Import took 0.015579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/crafting-table/textures/crafting_table_side.png
+  artifactKey: Guid(82771588527d7db4b949047c8244f2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/crafting-table/textures/crafting_table_side.png using Guid(82771588527d7db4b949047c8244f2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8891f829b9d783149bc3b6d2c0ade44') in 0.011616 seconds 
+  Import took 0.015041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/crafting-table/textures/planks_oak.png
+  artifactKey: Guid(358b9519cc2169143b17b86494113633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/crafting-table/textures/planks_oak.png using Guid(358b9519cc2169143b17b86494113633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07c689ed5946be28938af9401f126a78') in 0.010966 seconds 
+  Import took 0.014621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 364.201944 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-creeper
+  artifactKey: Guid(6e4f1c7333a6be34c8987b2488d0047e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-creeper using Guid(6e4f1c7333a6be34c8987b2488d0047e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5b58b6e99e7f27888d0a7aa59ad0d8f') in 0.006496 seconds 
+  Import took 0.011087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000633 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-creeper
+  artifactKey: Guid(6e4f1c7333a6be34c8987b2488d0047e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-creeper using Guid(6e4f1c7333a6be34c8987b2488d0047e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5b58b6e99e7f27888d0a7aa59ad0d8f') in 0.002262 seconds 
+  Import took 0.006048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.757020 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-creeper/source
+  artifactKey: Guid(938eb3366e18a244ea3bbc2e93d3e3b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-creeper/source using Guid(938eb3366e18a244ea3bbc2e93d3e3b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61177fabf7a799b1645a4c613781b612') in 0.001971 seconds 
+  Import took 0.005537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040070 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-creeper/source/creeper.fbx
+  artifactKey: Guid(709312ddbc7e6f64ba9ab089f90fdce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-creeper/source/creeper.fbx using Guid(709312ddbc7e6f64ba9ab089f90fdce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa57a12650c1a6774ee700fea38e5ff8') in 0.034485 seconds 
+  Import took 0.038363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.324756 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-creeper/textures/creeper.png
+  artifactKey: Guid(ccdcf0e2bcb251a47aa348d17601f02a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-creeper/textures/creeper.png using Guid(ccdcf0e2bcb251a47aa348d17601f02a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '091e30ef24a3fd2ce08fdc9005098af9') in 0.008403 seconds 
+  Import took 0.012337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-creeper/textures/internal_ground_ao_texture.jpeg
+  artifactKey: Guid(2b4600692deed5a49b8474a095404954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-creeper/textures/internal_ground_ao_texture.jpeg using Guid(2b4600692deed5a49b8474a095404954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02b09ba1e548b21e4f40c83f8a8209f5') in 0.013867 seconds 
+  Import took 0.017311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.453142 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-grass-block/source
+  artifactKey: Guid(86eb8f3c9b626cc458e6a12b22afba7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-grass-block/source using Guid(86eb8f3c9b626cc458e6a12b22afba7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6640faabac0f5567cf2c0261427842ba') in 0.003416 seconds 
+  Import took 0.007063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.557687 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-grass-block/textures
+  artifactKey: Guid(0426d9eff38defc4894b3b7bf1b6a233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-grass-block/textures using Guid(0426d9eff38defc4894b3b7bf1b6a233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b297b4cdca161813ef76987274e1eab7') in 0.002344 seconds 
+  Import took 0.006606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.116330 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-grass-block/textures/Grass_Block_TEX.png
+  artifactKey: Guid(70f6ff817e6d8e345ae546cb418d23f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-grass-block/textures/Grass_Block_TEX.png using Guid(70f6ff817e6d8e345ae546cb418d23f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eded10c1500b7af30f3eac0eac453758') in 0.011472 seconds 
+  Import took 0.015356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.464675 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-grass-block/source/Minecraft_Grass_Block_OBJ.zip
+  artifactKey: Guid(86075b4c9c8ac554c84cbcf74928fb76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-grass-block/source/Minecraft_Grass_Block_OBJ.zip using Guid(86075b4c9c8ac554c84cbcf74928fb76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe93b67058d0911c71d221e55b43576e') in 0.010199 seconds 
+  Import took 0.014084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.097282 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-grass-block/source/Grass_Block.obj
+  artifactKey: Guid(6e8e3539c5c8d6a4bbcb11d9bcbed53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-grass-block/source/Grass_Block.obj using Guid(6e8e3539c5c8d6a4bbcb11d9bcbed53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09967ff3d21399dabc4bee7ec8d55a7d') in 0.022596 seconds 
+  Import took 0.026724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.755162 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-pig/source
+  artifactKey: Guid(8d7c449bc08b0b94ba92b1a9af139dc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-pig/source using Guid(8d7c449bc08b0b94ba92b1a9af139dc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3ad150bf9d983be766c478fde28fb89') in 0.002126 seconds 
+  Import took 0.006286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027053 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-pig/source/pig.fbx
+  artifactKey: Guid(80711fd005f4cd442b60956df5ad4ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-pig/source/pig.fbx using Guid(80711fd005f4cd442b60956df5ad4ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69835f6d1f1283414aa5ec7f4550c218') in 0.024133 seconds 
+  Import took 0.027732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.669104 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-pig/textures/internal_ground_ao_texture.jpeg
+  artifactKey: Guid(0463ec75f08e5bc408ff9d7aa813aa61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-pig/textures/internal_ground_ao_texture.jpeg using Guid(0463ec75f08e5bc408ff9d7aa813aa61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c48aff9b7f951b231976d75a158dce50') in 0.010950 seconds 
+  Import took 0.014650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-pig/textures/pig.png
+  artifactKey: Guid(fcd910f73d5b9ce43bbdcfa656e0b33c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-pig/textures/pig.png using Guid(fcd910f73d5b9ce43bbdcfa656e0b33c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '784d0bbdd749dd58b5da1ad6f7db7950') in 0.008350 seconds 
+  Import took 0.012095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.425287 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-swords/source
+  artifactKey: Guid(9f8edae01ae724641922aa0acd2a03cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-swords/source using Guid(9f8edae01ae724641922aa0acd2a03cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6e92ca20dc7c60e5e3c534bf685c388') in 0.002636 seconds 
+  Import took 0.006325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.082137 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-swords/source/Minecraft Swords.fbx
+  artifactKey: Guid(1ae491d4753b43445b8040e7aae37446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-swords/source/Minecraft Swords.fbx using Guid(1ae491d4753b43445b8040e7aae37446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7768459e11f5d41e50c35d6726f58937') in 0.081168 seconds 
+  Import took 0.085960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.916541 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-torch/source
+  artifactKey: Guid(980e533b0f847034081d2eba6a949fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-torch/source using Guid(980e533b0f847034081d2eba6a949fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de1e73e95bb2019aed8b99b6783f0e17') in 0.002311 seconds 
+  Import took 0.006103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.144921 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-villager/source
+  artifactKey: Guid(576e136e94c4f7449802a32e8b4c08fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-villager/source using Guid(576e136e94c4f7449802a32e8b4c08fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '002227217865ee38f09a315faea4c6aa') in 0.002128 seconds 
+  Import took 0.005663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057192 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-villager/source/villager.fbx
+  artifactKey: Guid(dd4a540316d8062469c8bcb59ffc9949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-villager/source/villager.fbx using Guid(dd4a540316d8062469c8bcb59ffc9949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18aee91102030830b4c1e46fdc0792c6') in 0.017665 seconds 
+  Import took 0.021413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.960912 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-villager/textures/internal_ground_ao_texture.jpeg
+  artifactKey: Guid(f76539465557ba848a5078cc508e7e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-villager/textures/internal_ground_ao_texture.jpeg using Guid(f76539465557ba848a5078cc508e7e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a5b32333532f3ffac3cc869773c9494') in 0.010983 seconds 
+  Import took 0.014718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-villager/textures/villager_farmer.png
+  artifactKey: Guid(c797ba2e8bc604747ab9b789c2175c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-villager/textures/villager_farmer.png using Guid(c797ba2e8bc604747ab9b789c2175c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9140debfe89575281413eae1a92cefb8') in 0.009704 seconds 
+  Import took 0.013994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-villager/textures/villager_opacity.png
+  artifactKey: Guid(ae600c82babde8342bf5f81020669d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-villager/textures/villager_opacity.png using Guid(ae600c82babde8342bf5f81020669d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '029a8881e94ab076097e396d5ec86289') in 0.010372 seconds 
+  Import took 0.014192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.419511 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-wolf/source
+  artifactKey: Guid(a2d4054ecb380444ca3a104bdb78fd3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-wolf/source using Guid(a2d4054ecb380444ca3a104bdb78fd3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da1f829be76c8df7c966b0492e7bba11') in 0.002077 seconds 
+  Import took 0.006391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.067985 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-wolf/source/wolf.fbx
+  artifactKey: Guid(0949f6b40ffdb0f41bed677cbd6d065d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-wolf/source/wolf.fbx using Guid(0949f6b40ffdb0f41bed677cbd6d065d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa39cc863ea38139de7e3a45ac6e26c9') in 0.019287 seconds 
+  Import took 0.023241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.081540 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-wolf/textures/internal_ground_ao_texture.jpeg
+  artifactKey: Guid(292a97bb8675e4c44a64371c85ed8242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-wolf/textures/internal_ground_ao_texture.jpeg using Guid(292a97bb8675e4c44a64371c85ed8242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eff5d79d6d03458b6f4cb9a341d303f0') in 0.009275 seconds 
+  Import took 0.013006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-wolf/textures/wolf.png
+  artifactKey: Guid(30574819637bc9b4da5e6239c4d8545a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-wolf/textures/wolf.png using Guid(30574819637bc9b4da5e6239c4d8545a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b333df1e27551c21239b75d40bd61bb0') in 0.008010 seconds 
+  Import took 0.012436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.339778 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-zombie/source
+  artifactKey: Guid(c0c41805c9645b94ea5182f578b92501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-zombie/source using Guid(c0c41805c9645b94ea5182f578b92501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e43cd83429dc9a10a51ff7bcd600eea0') in 0.002542 seconds 
+  Import took 0.006092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.059149 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-zombie/source/zombie.fbx
+  artifactKey: Guid(c8f24578c8a479b4bbd0576e7a8434e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-zombie/source/zombie.fbx using Guid(c8f24578c8a479b4bbd0576e7a8434e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af55fdb5a44b086206fa2858543179f9') in 0.017630 seconds 
+  Import took 0.021485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.971047 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-zombie/textures/internal_ground_ao_texture.jpeg
+  artifactKey: Guid(9df48dfa7fc43f344bfbe703336326b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-zombie/textures/internal_ground_ao_texture.jpeg using Guid(9df48dfa7fc43f344bfbe703336326b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f84c08dc7347e3e964c571ae1f74cbe') in 0.009116 seconds 
+  Import took 0.012813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-zombie/textures/zombie.png
+  artifactKey: Guid(8bdfedb8cb85be24185f6f917fa878db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/MInecraft free asset/minecraft-zombie/textures/zombie.png using Guid(8bdfedb8cb85be24185f6f917fa878db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12e67e2f4908392902cb64ed831fb03b') in 0.008422 seconds 
+  Import took 0.011816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 997.671475 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets
+  artifactKey: Guid(f1220a5d4d45f4a479055cba28d712b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets using Guid(f1220a5d4d45f4a479055cba28d712b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caaebf8ef7efb2610fd721b374c7c968') in 0.006940 seconds 
+  Import took 0.011385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 122.891775 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/3d-model-mr-x-from-resident-evil-2-classic
+  artifactKey: Guid(f6d709016f5b2324f973bb8bc2a12e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/3d-model-mr-x-from-resident-evil-2-classic using Guid(f6d709016f5b2324f973bb8bc2a12e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdb02b81334e08b2d20b1e9371358596') in 0.005319 seconds 
+  Import took 0.008957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.560825 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/3d-model-mr-x-from-resident-evil-2-classic/source
+  artifactKey: Guid(ce121166a4b73b64f977a63adb830b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/3d-model-mr-x-from-resident-evil-2-classic/source using Guid(ce121166a4b73b64f977a63adb830b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2549912f5a068ab2655b630fed9f226') in 0.001967 seconds 
+  Import took 0.005723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.024200 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/3d-model-mr-x-from-resident-evil-2-classic/source/Mr X RE2 Classic.fbx
+  artifactKey: Guid(dd3b1bf505166b745b0ebde99b6ea485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/3d-model-mr-x-from-resident-evil-2-classic/source/Mr X RE2 Classic.fbx using Guid(dd3b1bf505166b745b0ebde99b6ea485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf84653275c1fec891139fff7a3c2eac') in 0.017906 seconds 
+  Import took 0.022609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001052 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/3d-model-mr-x-from-resident-evil-2-classic/source/Mr X RE2 Classic.fbx
+  artifactKey: Guid(dd3b1bf505166b745b0ebde99b6ea485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/3d-model-mr-x-from-resident-evil-2-classic/source/Mr X RE2 Classic.fbx using Guid(dd3b1bf505166b745b0ebde99b6ea485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf84653275c1fec891139fff7a3c2eac') in 0.014665 seconds 
+  Import took 0.018538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.470475 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/3d-model-mr-x-from-resident-evil-2-classic/textures/Texture Mr X RE2 Classic.png
+  artifactKey: Guid(68b9d784285213b459e5f5a6d8dfb829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/3d-model-mr-x-from-resident-evil-2-classic/textures/Texture Mr X RE2 Classic.png using Guid(68b9d784285213b459e5f5a6d8dfb829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f295ce3ac8e627a7ab5d949931c0ba0e') in 0.022510 seconds 
+  Import took 0.026156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.121096 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/juggernog-machine/source
+  artifactKey: Guid(ed1e656b07408134fb8b4461ca080a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/juggernog-machine/source using Guid(ed1e656b07408134fb8b4461ca080a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5598c27d5d364889494875467f643c3a') in 0.002991 seconds 
+  Import took 0.006718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.076003 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/juggernog-machine/source/Juggernog_low.fbx
+  artifactKey: Guid(9e3d6dfb05bfa6d4496a3bd2f7d2d3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/juggernog-machine/source/Juggernog_low.fbx using Guid(9e3d6dfb05bfa6d4496a3bd2f7d2d3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '836bf7cf4661a35c9fd155dfd025451a') in 0.018450 seconds 
+  Import took 0.022742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.032065 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/juggernog-machine/textures/Emmissive.png
+  artifactKey: Guid(03725cf2c445e8044bb5086eb3d07400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/juggernog-machine/textures/Emmissive.png using Guid(03725cf2c445e8044bb5086eb3d07400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40b683baddd984653c5ac64df81b1c15') in 0.010643 seconds 
+  Import took 0.014590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/juggernog-machine/textures/lambert1_Roughness.png
+  artifactKey: Guid(32b6cf7d06134494c9951a5f4984299c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/juggernog-machine/textures/lambert1_Roughness.png using Guid(32b6cf7d06134494c9951a5f4984299c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dd303a73cf24f0ba09a42ced2be61a4') in 0.010969 seconds 
+  Import took 0.015298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/juggernog-machine/textures/lambert1_Mixed_AO.png
+  artifactKey: Guid(29dc9a77d343b4747b9d36d22efffef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/juggernog-machine/textures/lambert1_Mixed_AO.png using Guid(29dc9a77d343b4747b9d36d22efffef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0bdc1556c0b51199082a7aac737bfa0') in 0.012087 seconds 
+  Import took 0.016794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/juggernog-machine/textures/lambert1_Base_Color.png
+  artifactKey: Guid(5c34d5e5c4f72f04c9d6234de6fdfb00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/juggernog-machine/textures/lambert1_Base_Color.png using Guid(5c34d5e5c4f72f04c9d6234de6fdfb00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e335c0cba537fb94d7bd4189fd4e2fd') in 0.010788 seconds 
+  Import took 0.015324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/juggernog-machine/textures/lambert1_Metallic.png
+  artifactKey: Guid(6bb07b024f3cc5442a92e1b30d844bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/juggernog-machine/textures/lambert1_Metallic.png using Guid(6bb07b024f3cc5442a92e1b30d844bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1930595fc46a0be7b165488dba125343') in 0.010044 seconds 
+  Import took 0.014416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/juggernog-machine/textures/lambert1_Normal_DirectX.png
+  artifactKey: Guid(560250d539d6cc84c994ed76980559fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/juggernog-machine/textures/lambert1_Normal_DirectX.png using Guid(560250d539d6cc84c994ed76980559fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c714bb46c87c11516c97c2e9deb4d27') in 0.009894 seconds 
+  Import took 0.013867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.385711 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/low-poly-lady-dimitrescu/source
+  artifactKey: Guid(7c30892a6c6302a4db9427937d05fd13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/low-poly-lady-dimitrescu/source using Guid(7c30892a6c6302a4db9427937d05fd13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89c5cae05cd381bd9668fb0044d3989a') in 0.001917 seconds 
+  Import took 0.005790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.998642 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/raygun-from-call-of-duty/source
+  artifactKey: Guid(0ccb301088db333469c89ee02506d515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/raygun-from-call-of-duty/source using Guid(0ccb301088db333469c89ee02506d515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d9c1793f653dc846238c2ad4e85b700') in 0.003341 seconds 
+  Import took 0.006952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.071045 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/raygun-from-call-of-duty/source/Raygun_low.obj
+  artifactKey: Guid(d010a93cba186804badc8fe6fd52f20d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/raygun-from-call-of-duty/source/Raygun_low.obj using Guid(d010a93cba186804badc8fe6fd52f20d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5fcaf1a72c8365363f473c6c9b10502') in 0.039720 seconds 
+  Import took 0.043287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.828906 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/raygun-from-call-of-duty/textures/abledo2.png
+  artifactKey: Guid(daf8bc04e0d2ed9478d49542edd33157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/raygun-from-call-of-duty/textures/abledo2.png using Guid(daf8bc04e0d2ed9478d49542edd33157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3be139909926b5b7e55a34e2e94dcc02') in 0.020835 seconds 
+  Import took 0.024461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/raygun-from-call-of-duty/textures/Raygun_low_initialShadingGroup_Normal.png
+  artifactKey: Guid(a229a0a49054e0e4fbcb9eca4bc0b3c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/raygun-from-call-of-duty/textures/Raygun_low_initialShadingGroup_Normal.png using Guid(a229a0a49054e0e4fbcb9eca4bc0b3c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e1315ba986b8db0f9355b9f0636f2c9') in 0.012364 seconds 
+  Import took 0.016682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/raygun-from-call-of-duty/textures/Raygun_low_initialShadingGroup_MetallicSmo.png
+  artifactKey: Guid(d42457c0e13a51a4aa4c28f6d1c681e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/raygun-from-call-of-duty/textures/Raygun_low_initialShadingGroup_MetallicSmo.png using Guid(d42457c0e13a51a4aa4c28f6d1c681e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '088ce22c82e6cab6f9767799ffb18d9b') in 0.022142 seconds 
+  Import took 0.025760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.271306 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/source
+  artifactKey: Guid(3dfa0a838be2db2488ccd15048159575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/source using Guid(3dfa0a838be2db2488ccd15048159575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15d23cbe270a178624bc989aaa4e64bf') in 0.001972 seconds 
+  Import took 0.005935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070495 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/source/Keys_animation.fbx
+  artifactKey: Guid(b014bd83312ade84b990cafecc63d2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/source/Keys_animation.fbx using Guid(b014bd83312ade84b990cafecc63d2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e316ad57841ac8cf0768a5d3c32df5c7') in 0.054823 seconds 
+  Import took 0.058968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.328778 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/blue_key_Base_Color.png
+  artifactKey: Guid(0c2554ca26863114491af4357dc0c77c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/blue_key_Base_Color.png using Guid(0c2554ca26863114491af4357dc0c77c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e53aee83629483732e77c530c2b7fe94') in 0.009704 seconds 
+  Import took 0.013298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/Green_key_Roughness.png
+  artifactKey: Guid(1e15354c944b5ba4287fd3c59ee0b359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/Green_key_Roughness.png using Guid(1e15354c944b5ba4287fd3c59ee0b359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ff408191f434b59ce08464c14677b4b') in 0.010465 seconds 
+  Import took 0.014058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/blue_key_Metallic.png
+  artifactKey: Guid(ac18cce2a13669b479633242f9eb4567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/blue_key_Metallic.png using Guid(ac18cce2a13669b479633242f9eb4567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '514f7007791049d2a5871d6651bde547') in 0.012656 seconds 
+  Import took 0.016091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/Purple_key_Normal_OpenGL.png
+  artifactKey: Guid(ecfb7fd07ab25364bb0f2cbcb45ab83d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/Purple_key_Normal_OpenGL.png using Guid(ecfb7fd07ab25364bb0f2cbcb45ab83d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fea33b177728879e0495a334d29bdff9') in 0.010712 seconds 
+  Import took 0.015758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/Green_key_Metallic.png
+  artifactKey: Guid(31c9b6756f1a7c04fb2c991d05510d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/Green_key_Metallic.png using Guid(31c9b6756f1a7c04fb2c991d05510d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '847f9523fc189a8a3ba0044b28f85adb') in 0.010439 seconds 
+  Import took 0.014299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/red_key_Metallic.png
+  artifactKey: Guid(b0463331e6185f146a3a579ad7e5957f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/red_key_Metallic.png using Guid(b0463331e6185f146a3a579ad7e5957f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cbd78b1a75bf97b1ecbad2b8649003d') in 0.344039 seconds 
+  Import took 0.348938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/red_key_Normal_OpenGL.png
+  artifactKey: Guid(fe64cc888b895854eaf637420b9cd4bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/red_key_Normal_OpenGL.png using Guid(fe64cc888b895854eaf637420b9cd4bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '093d845e99299851016b88a33447088b') in 0.012559 seconds 
+  Import took 0.016123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/red_key_Roughness.png
+  artifactKey: Guid(a5ac3d42502acf34989821e22e7f6205) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/red_key_Roughness.png using Guid(a5ac3d42502acf34989821e22e7f6205) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '085c7db222d9ddc824a3b413e5388ee4') in 0.011836 seconds 
+  Import took 0.016007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/Purple_key_Base_Color.png
+  artifactKey: Guid(0ef9fc483847d5945875ec427281ddcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/Purple_key_Base_Color.png using Guid(0ef9fc483847d5945875ec427281ddcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2c9e8d1db8c4700f0aafb1c1c81f307') in 0.013012 seconds 
+  Import took 0.016841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/Purple_key_Roughness.png
+  artifactKey: Guid(b2494a08d81afc041b779ba014b339b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/Purple_key_Roughness.png using Guid(b2494a08d81afc041b779ba014b339b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b19ba6356d8721bc3543f4959a459e4') in 0.011112 seconds 
+  Import took 0.014786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/Purple_key_Metallic.png
+  artifactKey: Guid(adeaf53c2c34e2e46ae5539eb358cf9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/Purple_key_Metallic.png using Guid(adeaf53c2c34e2e46ae5539eb358cf9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95b1bf8700fbf47865f3009095fd8b59') in 0.010932 seconds 
+  Import took 0.015050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/Green_key_Normal_OpenGL.png
+  artifactKey: Guid(be2f4184a8b37a34a93d3ea7c011106f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/Green_key_Normal_OpenGL.png using Guid(be2f4184a8b37a34a93d3ea7c011106f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b89fc5ac76ef68ddee23bc78d8d9a6d5') in 0.011912 seconds 
+  Import took 0.015688 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000152 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_objb_spc.png
-  artifactKey: Guid(8f17056c305d7d758bf98a21962997c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_objb_spc.png using Guid(8f17056c305d7d758bf98a21962997c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0af1d2b8151148e0a05a0f01e8dc937') in 0.010794 seconds 
-  Import took 0.013313 seconds .
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/Green_key_Base_Color.png
+  artifactKey: Guid(dc502fad4e7925c43a2dc7bdcc93329c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/Green_key_Base_Color.png using Guid(dc502fad4e7925c43a2dc7bdcc93329c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ea42d4e010940e62531b726a715d4b7') in 0.011015 seconds 
+  Import took 0.014779 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000161 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_objb_col.png
-  artifactKey: Guid(d4666092b9272828bb2a92804305e7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_objb_col.png using Guid(d4666092b9272828bb2a92804305e7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4efdcb215b706040d286e55451fbff67') in 0.008817 seconds 
-  Import took 0.011362 seconds .
+  Time since last request: 0.000163 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/blue_key_Normal_OpenGL.png
+  artifactKey: Guid(96e30552af20b174fb358e61956292d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/blue_key_Normal_OpenGL.png using Guid(96e30552af20b174fb358e61956292d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62c6101556e9c5ff4911ebc64905b8a4') in 0.011983 seconds 
+  Import took 0.016060 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.003219 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_objb_col.png
-  artifactKey: Guid(d4666092b9272828bb2a92804305e7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_objb_col.png using Guid(d4666092b9272828bb2a92804305e7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4efdcb215b706040d286e55451fbff67') in 0.004593 seconds 
-  Import took 0.007297 seconds .
+  Time since last request: 0.000174 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/blue_key_Roughness.png
+  artifactKey: Guid(091c2ed2cf25a184ca2169abb130d384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/blue_key_Roughness.png using Guid(091c2ed2cf25a184ca2169abb130d384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df4752ff7da5bb6646c460406836a7bc') in 0.010927 seconds 
+  Import took 0.014649 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.384199 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_switch.dae
-  artifactKey: Guid(e8cfb1809f9ed27b3b9983f6816cc259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_switch.dae using Guid(e8cfb1809f9ed27b3b9983f6816cc259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13bdb2a4803581f85d56119268dde5ba') in 0.160831 seconds 
-  Import took 0.164050 seconds .
+  Time since last request: 0.000150 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/red_key_Base_Color.png
+  artifactKey: Guid(454b7f58a34ac2a4498f7e04364b2cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Horror Free Assets/resident-evil-keys/textures/red_key_Base_Color.png using Guid(454b7f58a34ac2a4498f7e04364b2cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4764aaad3a7d8ecc92b6f9da966f12f9') in 0.023964 seconds 
+  Import took 0.027796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 148.464750 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets
+  artifactKey: Guid(430865e875e8db149ac51578e0aa71dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets using Guid(430865e875e8db149ac51578e0aa71dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9dd3b6a26ebf3b4037471285e904bd1') in 0.005682 seconds 
+  Import took 0.010288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.516981 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/barrel-robot-steampunk
+  artifactKey: Guid(dc2faab21802c404195386e6c9d7fb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/barrel-robot-steampunk using Guid(dc2faab21802c404195386e6c9d7fb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '790f3f23b727b63d89e693bba0ddbed2') in 0.005475 seconds 
+  Import took 0.009056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.536532 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/barrel-robot-steampunk/source
+  artifactKey: Guid(49fe53e6b74fb8643b3d7ed327acd8e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/barrel-robot-steampunk/source using Guid(49fe53e6b74fb8643b3d7ed327acd8e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6897ae673342ad2fe441cf17f1d7286') in 0.002002 seconds 
+  Import took 0.005897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053405 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/barrel-robot-steampunk/source/Robo.fbx
+  artifactKey: Guid(fe38438edc1c1b84780c8e9b4904a841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/barrel-robot-steampunk/source/Robo.fbx using Guid(fe38438edc1c1b84780c8e9b4904a841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81c924cd925d62f00accdcf096b1c4ac') in 0.020608 seconds 
+  Import took 0.024168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.809651 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/barrel-robot-steampunk/textures/Barell_Robo_Base_Color.png
+  artifactKey: Guid(fe3adf37ced0f4645864c86dd61d4cc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/barrel-robot-steampunk/textures/Barell_Robo_Base_Color.png using Guid(fe3adf37ced0f4645864c86dd61d4cc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9496dbc6ee2e643ce40d455b591d2c0f') in 0.012928 seconds 
+  Import took 0.016637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/barrel-robot-steampunk/textures/Barell_Robo_Mixed_AO.png
+  artifactKey: Guid(8e81b6cdac261cc468e06fe63c905088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/barrel-robot-steampunk/textures/Barell_Robo_Mixed_AO.png using Guid(8e81b6cdac261cc468e06fe63c905088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1e7658fe94534ba25a86c28d04bf607') in 0.012793 seconds 
+  Import took 0.017917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/barrel-robot-steampunk/textures/Barell_Robo_Metallic.png
+  artifactKey: Guid(fd4b76c82633dae41bb4d4a22be1b713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/barrel-robot-steampunk/textures/Barell_Robo_Metallic.png using Guid(fd4b76c82633dae41bb4d4a22be1b713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee1d6a514eb8579a1e99b886f8456890') in 0.014225 seconds 
+  Import took 0.017675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/barrel-robot-steampunk/textures/internal_ground_ao_texture.jpeg
+  artifactKey: Guid(fcc5d4d2f4b7f2e42b0ed2e42bf25945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/barrel-robot-steampunk/textures/internal_ground_ao_texture.jpeg using Guid(fcc5d4d2f4b7f2e42b0ed2e42bf25945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2805e9958e0ae196299a78bf509f678b') in 0.009720 seconds 
+  Import took 0.013761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/barrel-robot-steampunk/textures/Barell_Robo_Normal_DirectX.png
+  artifactKey: Guid(495c4f56bb019fd4ebc53a75263a6ff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/barrel-robot-steampunk/textures/Barell_Robo_Normal_DirectX.png using Guid(495c4f56bb019fd4ebc53a75263a6ff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0edb8ef93cbd9e9235dee09bdc8952d2') in 0.013253 seconds 
+  Import took 0.016862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/barrel-robot-steampunk/textures/Barell_Robo_Roughness.png
+  artifactKey: Guid(26e85261ba60f1c43b33a0b405f9c562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/barrel-robot-steampunk/textures/Barell_Robo_Roughness.png using Guid(26e85261ba60f1c43b33a0b405f9c562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13720489eaa4760ccefd87e12c1890f5') in 0.014280 seconds 
+  Import took 0.017832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.698399 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/source
+  artifactKey: Guid(b31778c02f4d23c46a3509ad0abdaf12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/source using Guid(b31778c02f4d23c46a3509ad0abdaf12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e191a76c6a031fbc4aeb17765e82f78b') in 0.002009 seconds 
+  Import took 0.006004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058121 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/source/3.fbx
+  artifactKey: Guid(5cb43bc58de4ae548b7fce9b6d80da1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/source/3.fbx using Guid(5cb43bc58de4ae548b7fce9b6d80da1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ab35301ec6e6f5854593f8280a83c6c') in 0.049018 seconds 
+  Import took 0.052777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.858660 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/17576cfe869a4ca.jpg
+  artifactKey: Guid(aadd80a7f49962e4c9cce2e651dc58b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/17576cfe869a4ca.jpg using Guid(aadd80a7f49962e4c9cce2e651dc58b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4750a5c5074a63c66e622852504f0d9f') in 0.335655 seconds 
+  Import took 0.339203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/м3_Corona_AO.jpg
+  artifactKey: Guid(84b2476c180c54644955e1ce917b3164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/м3_Corona_AO.jpg using Guid(84b2476c180c54644955e1ce917b3164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf9315ceb33e96d3a8ca36c61a3e123a') in 0.022213 seconds 
+  Import took 0.025432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/LOW1NormalsMap.jpg
+  artifactKey: Guid(39f6fb6a7020b0c4f954c3d28997e786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/LOW1NormalsMap.jpg using Guid(39f6fb6a7020b0c4f954c3d28997e786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5811f5ab352ac94fe0e841f740adfb34') in 0.022674 seconds 
+  Import took 0.025881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/м3_Corona_DiffuseColor.jpg
+  artifactKey: Guid(a4b945fcf21aa6943bee04aa228e074c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/м3_Corona_DiffuseColor.jpg using Guid(a4b945fcf21aa6943bee04aa228e074c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd53716426e9765b32e60090a17595df5') in 0.016526 seconds 
+  Import took 0.020290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/м4_Corona_ReflectColor.jpg
+  artifactKey: Guid(2cb4c926712e71c4baf6e659cf5c7421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/м4_Corona_ReflectColor.jpg using Guid(2cb4c926712e71c4baf6e659cf5c7421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f46017ec1bb5c512bfeaabdee5642fd7') in 0.015012 seconds 
+  Import took 0.018688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/м3_m.jpg
+  artifactKey: Guid(d2d1e1bc4f085064aa60b7468eb94b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/м3_m.jpg using Guid(d2d1e1bc4f085064aa60b7468eb94b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d4f39e9dcc27cdbac05f8caaebb08bd') in 0.016445 seconds 
+  Import took 0.019747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/м4_Corona_AO.jpg
+  artifactKey: Guid(521dab2365b3f2c45ae167c68eb456f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/м4_Corona_AO.jpg using Guid(521dab2365b3f2c45ae167c68eb456f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9e6d2e7f1874970b2c90911c3d27f9f') in 0.014937 seconds 
+  Import took 0.020790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/LOW_2NormalsMap.jpg
+  artifactKey: Guid(6b01ed03740dd90458c80433120e4044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/LOW_2NormalsMap.jpg using Guid(6b01ed03740dd90458c80433120e4044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b94ae9ddfe5be145cf5d16a7fda83f69') in 0.015572 seconds 
+  Import took 0.019575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/м3_Corona_ReflectColor.jpg
+  artifactKey: Guid(5d227f9d484fbb24ba7bd15859fa535a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/м3_Corona_ReflectColor.jpg using Guid(5d227f9d484fbb24ba7bd15859fa535a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cedb64c2332eb1b2fd0c2856d00d763') in 0.017223 seconds 
+  Import took 0.020947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/LOW_2NormalsMap.jpg
+  artifactKey: Guid(6b01ed03740dd90458c80433120e4044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/LOW_2NormalsMap.jpg using Guid(6b01ed03740dd90458c80433120e4044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b94ae9ddfe5be145cf5d16a7fda83f69') in 0.013996 seconds 
+  Import took 0.018656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/м4_C2.jpg
+  artifactKey: Guid(b2274d0d0aea02b42b62e436f0cb7829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-glasses/textures/м4_C2.jpg using Guid(b2274d0d0aea02b42b62e436f0cb7829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '734e698d4fe3418462ed6a91c22666a9') in 0.015358 seconds 
+  Import took 0.019863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.554115 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-hammer-axe/source
+  artifactKey: Guid(740fd5da10f27a54dabfa2c73fe0d0dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-hammer-axe/source using Guid(740fd5da10f27a54dabfa2c73fe0d0dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9874fe2e5f74570d9b0f6094db71a08') in 0.002695 seconds 
+  Import took 0.006866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051177 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-hammer-axe/source/SteamHammerAxe_SubstanceProject_Blood.obj
+  artifactKey: Guid(f4231036d2a122a4285670cf7b254b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-hammer-axe/source/SteamHammerAxe_SubstanceProject_Blood.obj using Guid(f4231036d2a122a4285670cf7b254b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5491dc40a0d9f6ef34a83e9e570ea565') in 0.121999 seconds 
+  Import took 0.126601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.915523 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-hammer-axe/textures/material_0_albedo.jpg
+  artifactKey: Guid(a3a2798518367dd45b1e03deeab0516f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-hammer-axe/textures/material_0_albedo.jpg using Guid(a3a2798518367dd45b1e03deeab0516f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd8bfae46773c82dbf4ac0665bd7b5a1') in 0.011973 seconds 
+  Import took 0.015782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-hammer-axe/textures/material_0_AO.jpg
+  artifactKey: Guid(3bcf122f7ed059d4d890c20ea7a0a33c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-hammer-axe/textures/material_0_AO.jpg using Guid(3bcf122f7ed059d4d890c20ea7a0a33c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5034a57d8d3b6104261a7a1ba2f413f3') in 0.012767 seconds 
+  Import took 0.016643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-hammer-axe/textures/material_0_metallic.jpg
+  artifactKey: Guid(ef8e6f4ae969a7240b8b72f9ecd2e6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-hammer-axe/textures/material_0_metallic.jpg using Guid(ef8e6f4ae969a7240b8b72f9ecd2e6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdf0603be93aaf3fd99ed030ac29eee4') in 0.014964 seconds 
+  Import took 0.018881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-hammer-axe/textures/material_0_normal.png
+  artifactKey: Guid(9c0a9fa884b471c4997768000290fc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-hammer-axe/textures/material_0_normal.png using Guid(9c0a9fa884b471c4997768000290fc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbe816d00981ca80545eb372148c3b47') in 0.025622 seconds 
+  Import took 0.029813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-hammer-axe/textures/material_0_roughness.jpg
+  artifactKey: Guid(0b5aaa0dfd6d22a4aa865717353947c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Steampunk Free Assets/steampunk-hammer-axe/textures/material_0_roughness.jpg using Guid(0b5aaa0dfd6d22a4aa865717353947c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bed778a5f22bfb87e58638c5e02dec1c') in 0.015398 seconds 
+  Import took 0.019130 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
