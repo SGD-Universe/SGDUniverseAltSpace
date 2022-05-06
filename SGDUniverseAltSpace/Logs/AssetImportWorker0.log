@@ -1,138 +1,149 @@
+Unity Editor version:    2020.3.18f1 (a7d1c678663c)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+System name:             Linux
+Distro version:          #123-Ubuntu SMP Fri Apr 8 09:10:54 UTC 2022
+Kernel version:          5.4.0-109-generic
+Architecture:            x86_64
+Available memory:        15916 MB
 Using pre-set license
-Built from '2020.3/staging' branch; Version is '2020.3.18f1 (a7d1c678663c) revision 10998214'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19043.1645; Version 2009; 64bit' Language: 'en' Physical Memory: 16316 MB
-BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+Pro License: NO
+Desktop is 1920 x 1080 @ 60 Hz
 
 COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2020.3.18f1\Editor\Unity.exe
+Unity
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-E:/Git/SGD/SGDUniverseAltSpace/SGDUniverseAltSpace
+/home/evasolch/SGDUniverseAltSpace/SGDUniverseAltSpace
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52529
-Successfully changed project path to: E:/Git/SGD/SGDUniverseAltSpace/SGDUniverseAltSpace
-E:/Git/SGD/SGDUniverseAltSpace/SGDUniverseAltSpace
+43645
+Successfully changed project path to: /home/evasolch/SGDUniverseAltSpace/SGDUniverseAltSpace
+/home/evasolch/SGDUniverseAltSpace/SGDUniverseAltSpace
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 61.32 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 38.40 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.18f1 (a7d1c678663c)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path E:/Git/SGD/SGDUniverseAltSpace/SGDUniverseAltSpace/Assets
-GfxDevice: creating device client; threaded=0
-Direct3D:
-    Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
-    Vendor:   
-    VRAM:     5980 MB
-    Driver:   30.0.15.1215
+[Subsystems] Discovering subsystems at path /home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /home/evasolch/SGDUniverseAltSpace/SGDUniverseAltSpace/Assets
+GLX Extensions: GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_visual_info GLX_EXT_visual_rating GLX_EXT_import_context GLX_SGI_video_sync GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGI_swap_control GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_buffer_age GLX_ARB_create_context GLX_ARB_create_context_profile GLX_NV_float_buffer GLX_ARB_fbconfig_float GLX_EXT_texture_from_pixmap GLX_EXT_framebuffer_sRGB GLX_NV_copy_image GLX_EXT_create_context_es_profile GLX_EXT_create_context_es2_profile GLX_ARB_create_context_no_error GLX_ARB_create_context_robustness GLX_NV_delay_before_swap GLX_EXT_stereo_tree GLX_ARB_context_flush_control GLX_NV_robustness_video_memory_purge GLX_NV_multigpu_context 
+Renderer: NVIDIA GeForce GTX 1660 Ti/PCIe/SSE2
+Vendor:   NVIDIA Corporation
+Version:  4.5.0 NVIDIA 470.103.01
+GLES:     0
+ GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragmen
+t_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoki
+ng_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_A
+RB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_t
+ranspose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters 
+GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_multiview_texture_multisample GL_EXT_multiview_timer_query GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_post_depth_coverage GL_EXT_provoking_vertex GL_EXT_raster_multisample GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_sparse_texture2 GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_lod G
+L_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_x11_sync_object GL_EXT_import_sync_object GL_NV_robustness_video_memory_purge GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_fd GL_NV_memory_object_sparse GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_fd GL_NV_timeline_semaphore GL_KHR_shader_subgroup GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_
+blend_equation_advanced_coherent GL_NVX_blend_equation_advanced_multi_draw_buffers GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_clip_space_w_scaling GL_NV_command_list GL_NV_compute_program5 GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_conservative_raster_pre_snap GL_NV_conservative_raster_pre_snap_triangles GL_NV_conservative_raster_underestimation GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_barycentric GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_geometry_sha
+der_passthrough GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_memory_attachment GL_NV_mesh_shader GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_representative_fragment_test GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_scissor_exclusive GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_float64 GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_shader_subgroup_partitioned GL_NV_shader_texture
+_footprint GL_NV_shading_rate_image GL_NV_stereo_view_rendering GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vdpau_interop GL_NV_vdpau_interop2 GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NV_gpu_multicast GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap
+ GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle -1231412936
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56296
+Mono path[0] = '/home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Managed'
+Mono path[1] = '/home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56799
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
-Registered in 0.005921 seconds.
-Native extension for Lumin target not found
+Register platform support module: /home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.001377 seconds.
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 57.78 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 38.72 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.473 seconds
+- Completed reload, in  0.946 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2473ms)
-		BeginReloadAssembly (58ms)
+	ReloadAssembly (946ms)
+		BeginReloadAssembly (23ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (480ms)
-			LoadAssemblies (57ms)
+		EndReloadAssembly (345ms)
+			LoadAssemblies (22ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (166ms)
+			SetupTypeCache (113ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (31ms)
-			SetupLoadedEditorAssemblies (205ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (165ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (8ms)
+				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (58ms)
-				BeforeProcessingInitializeOnLoad (20ms)
-				ProcessInitializeOnLoadAttributes (85ms)
-				ProcessInitializeOnLoadMethodAttributes (34ms)
+				RefreshPlugins (39ms)
+				BeforeProcessingInitializeOnLoad (7ms)
+				ProcessInitializeOnLoadAttributes (94ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.006112 seconds.
+Registered in 0.001439 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 56.84 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 40.11 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.247 seconds
+- Completed reload, in  0.830 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1248ms)
-		BeginReloadAssembly (161ms)
+	ReloadAssembly (830ms)
+		BeginReloadAssembly (91ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (19ms)
-		EndReloadAssembly (1015ms)
-			LoadAssemblies (110ms)
+			CreateAndSetChildDomain (13ms)
+		EndReloadAssembly (696ms)
+			LoadAssemblies (51ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (331ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (48ms)
-			SetupLoadedEditorAssemblies (400ms)
+			SetupTypeCache (223ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (288ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (8ms)
+				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (57ms)
-				BeforeProcessingInitializeOnLoad (87ms)
-				ProcessInitializeOnLoadAttributes (234ms)
-				ProcessInitializeOnLoadMethodAttributes (4ms)
-				AfterProcessingInitializeOnLoad (9ms)
+				RefreshPlugins (40ms)
+				BeforeProcessingInitializeOnLoad (54ms)
+				ProcessInitializeOnLoadAttributes (183ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (4ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (7ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
-Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler after 0.00 seconds
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2549 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 116.6 MB.
-System memory in use after: 116.8 MB.
+System memory in use before: 106.6 MB.
+System memory in use after: 106.8 MB.
 
 Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2995.
-Total: 2.932700 ms (FindLiveObjects: 0.225400 ms CreateObjectMapping: 0.119500 ms MarkObjects: 2.516500 ms  DeleteObjects: 0.069800 ms)
+Total: 4.412388 ms (FindLiveObjects: 0.239767 ms CreateObjectMapping: 0.107661 ms MarkObjects: 3.967103 ms  DeleteObjects: 0.096864 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
@@ -143,193 +154,241 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes
-  artifactKey: Guid(93ab5ebdf9270d64da070c2512fe91e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(93ab5ebdf9270d64da070c2512fe91e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '874f39407afdd23f6f32ac4d5053815e') in 0.014051 seconds 
-  Import took 0.062666 seconds .
+  path: Assets/Readme.asset
+  artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b1cb48c2cb3f2ab11a55bbe97c386b7') in 0.026442 seconds 
+  Import took 0.029862 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 123.970049 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Retro Free Assets/retro-computer-setup-free
-  artifactKey: Guid(9e3aa0b5f81769b44901e40817c8df54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Retro Free Assets/retro-computer-setup-free using Guid(9e3aa0b5f81769b44901e40817c8df54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1dc21e97ef41bab8379712ecced3bb3') in 0.006817 seconds 
-  Import took 0.048000 seconds .
+  Time since last request: 50.454612 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_obja_col.png
+  artifactKey: Guid(7f38c769a70813cda98c74f8c6a4aa24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_obja_col.png using Guid(7f38c769a70813cda98c74f8c6a4aa24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce3c348f4c812db2e356e6a71da807c3') in 0.034865 seconds 
+  Import took 0.041154 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.725110 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Retro Free Assets/retro-toy
-  artifactKey: Guid(426574c3f957c1b42bd2af21a51a020c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Retro Free Assets/retro-toy using Guid(426574c3f957c1b42bd2af21a51a020c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1573abca32508891a142163e64214ffe') in 0.013103 seconds 
-  Import took 0.047391 seconds .
+  Time since last request: 0.000257 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_switch.dae
+  artifactKey: Guid(e8cfb1809f9ed27b3b9983f6816cc259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_switch.dae using Guid(e8cfb1809f9ed27b3b9983f6816cc259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a150f6ed1fbef2cfec2e7faf986157f3') in 0.118569 seconds 
+  Import took 0.121536 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.731287 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Retro Free Assets/retro-tv
-  artifactKey: Guid(65cfd8dc62fe8a541ab7ed0193f4920b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Retro Free Assets/retro-tv using Guid(65cfd8dc62fe8a541ab7ed0193f4920b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c50b8471988c56349ece7f2bf6f5b61') in 0.008289 seconds 
-  Import took 0.080969 seconds .
+  Time since last request: 0.000219 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_objb_spc.png
+  artifactKey: Guid(8f17056c305d7d758bf98a21962997c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_objb_spc.png using Guid(8f17056c305d7d758bf98a21962997c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0af1d2b8151148e0a05a0f01e8dc937') in 0.004284 seconds 
+  Import took 0.006644 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.801913 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Retro Free Assets/retro-vending-machine
-  artifactKey: Guid(663f30c955540e243933d15d1092c0c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Retro Free Assets/retro-vending-machine using Guid(663f30c955540e243933d15d1092c0c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7375770247622c00f8dc90215870da29') in 0.007212 seconds 
-  Import took 0.038044 seconds .
+  Time since last request: 0.000241 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_objb_col.png
+  artifactKey: Guid(d4666092b9272828bb2a92804305e7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_objb_col.png using Guid(d4666092b9272828bb2a92804305e7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4efdcb215b706040d286e55451fbff67') in 0.008934 seconds 
+  Import took 0.011440 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 80.413581 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Retro Free Assets/vintage-retro-radio
-  artifactKey: Guid(b2f87441477dde347aa21c5470691bd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Retro Free Assets/vintage-retro-radio using Guid(b2f87441477dde347aa21c5470691bd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5abb10dc6ce8f26cfff12d436808260a') in 0.011317 seconds 
-  Import took 0.029008 seconds .
+  Time since last request: 0.000212 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_obja_spc.png
+  artifactKey: Guid(5fa1bb038ce79d061996b61da30a281c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_obja_spc.png using Guid(5fa1bb038ce79d061996b61da30a281c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4632563138d19f85d5d99e1ffb581995') in 0.004166 seconds 
+  Import took 0.006702 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 375.619403 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine
-  artifactKey: Guid(8df763d71ca629a4ab603a0ad8487190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine using Guid(8df763d71ca629a4ab603a0ad8487190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9729ec555d311879a0d2abd7da9338d') in 0.005890 seconds 
-  Import took 0.027563 seconds .
+  Time since last request: 5.366661 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets
+  artifactKey: Guid(27060adf507d2a34db79d42486710c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets using Guid(27060adf507d2a34db79d42486710c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1dc8a524c75f62c66f9e76b675a9c40') in 0.000746 seconds 
+  Import took 0.004063 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.267101 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/Low poly block.fbx
-  artifactKey: Guid(ad1831281677b084a83548353aac139f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/Low poly block.fbx using Guid(ad1831281677b084a83548353aac139f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07bc65ac4b5ae132262660f7d3728886') in 0.266960 seconds 
-  Import took 0.292243 seconds .
+  Time since last request: 13.909489 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Nintendo Switch
+  artifactKey: Guid(b7fc83f7bd21ebc7ab18d46badb2ca4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Nintendo Switch using Guid(b7fc83f7bd21ebc7ab18d46badb2ca4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5175207e376bbb99c4f8fa0dda0b8052') in 0.001021 seconds 
+  Import took 0.003818 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.006055 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/textures
-  artifactKey: Guid(085298d8c143e38439c3c14158b196af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/textures using Guid(085298d8c143e38439c3c14158b196af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88d311133a7dfce0f467d8e736a3df01') in 0.007564 seconds 
-  Import took 0.024285 seconds .
+  Time since last request: 19.518556 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Nintendo Switch/ob0006_00_switch.dae
+  artifactKey: Guid(e8cfb1809f9ed27b3b9983f6816cc259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Nintendo Switch/ob0006_00_switch.dae using Guid(e8cfb1809f9ed27b3b9983f6816cc259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a171b269582eab9570e4f8e4b9fc0c2') in 0.038165 seconds 
+  Import took 0.042485 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.036508 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/textures/Arcade Machine.mat
-  artifactKey: Guid(d7606db8b74b1a9408e00c5ec068bc19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/textures/Arcade Machine.mat using Guid(d7606db8b74b1a9408e00c5ec068bc19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ceba03d8b9295310646fcbaf3f61508') in 0.043769 seconds 
-  Import took 0.108989 seconds .
+  Time since last request: 6.443686 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Nintendo Switch/Source
+  artifactKey: Guid(54341438eb0e1836392159428826068e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Nintendo Switch/Source using Guid(54341438eb0e1836392159428826068e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dd30b770f879ae958d0287d22062a00') in 0.001066 seconds 
+  Import took 0.003772 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000167 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/textures/Normal.mat
-  artifactKey: Guid(8270108ac7c753d4e9147b6e952133ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/textures/Normal.mat using Guid(8270108ac7c753d4e9147b6e952133ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '124d993ebad53cf85c7313f16d2a72bd') in 0.167764 seconds 
-  Import took 0.220588 seconds .
+  Time since last request: 9.214107 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Nintendo Switch/Textures
+  artifactKey: Guid(54a378848c5974cd8b8ba7cf99b58131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Nintendo Switch/Textures using Guid(54a378848c5974cd8b8ba7cf99b58131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efc8acb27af57ae91a0879946524ad0c') in 0.000959 seconds 
+  Import took 0.003678 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/textures/Box001_low_diffuse.png
-  artifactKey: Guid(27278883a03a2ee4799e08c97122d98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/textures/Box001_low_diffuse.png using Guid(27278883a03a2ee4799e08c97122d98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '357b7bb49cd390fddea9d6cbbeedecbc') in 0.069273 seconds 
-  Import took 0.125430 seconds .
+  Time since last request: 79.624708 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar
+  artifactKey: Guid(6f635d001c5cd410687dfc6d8d4a78d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar using Guid(6f635d001c5cd410687dfc6d8d4a78d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '332f32d60e4cbd707529a215f964337e') in 0.000994 seconds 
+  Import took 0.003649 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000218 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/textures/Box001_low_normal.png
-  artifactKey: Guid(b519e85f33bec1246a9773c54c135936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/textures/Box001_low_normal.png using Guid(b519e85f33bec1246a9773c54c135936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0323d5e0437c8be0dcb517dabc1e5a2b') in 0.020222 seconds 
-  Import took 0.071238 seconds .
+  Time since last request: 8.995987 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Railing_Light.png
+  artifactKey: Guid(bf35d91c3119e4732aff78e0dac9ba26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Railing_Light.png using Guid(bf35d91c3119e4732aff78e0dac9ba26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a52f6a5d3dc54954022f14810557da38') in 0.008001 seconds 
+  Import took 0.010980 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000171 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/textures/Box001_low_specular.png
-  artifactKey: Guid(fb6b1a75c7e673747a7fbe24274189aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/textures/Box001_low_specular.png using Guid(fb6b1a75c7e673747a7fbe24274189aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8710717192f6ec747b19f4ce9cf29ffb') in 0.294226 seconds 
-  Import took 0.298798 seconds .
+  Time since last request: 0.024354 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Flight_Light.png
+  artifactKey: Guid(c8baaccb610ab0be398e4e72d5d944ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Flight_Light.png using Guid(c8baaccb610ab0be398e4e72d5d944ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '528ae3807f2a0e2dd27928a4586ebe0b') in 0.010914 seconds 
+  Import took 0.013779 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 43.404641 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/Materials
-  artifactKey: Guid(254f511fb90cfea4fa42b17cb4568313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/Materials using Guid(254f511fb90cfea4fa42b17cb4568313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21b6df61e02f976b3ef5b4bb17dd763b') in 0.005669 seconds 
-  Import took 0.020828 seconds .
+  Time since last request: 0.000153 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Mcguffin_Light.png
+  artifactKey: Guid(ddfe010397414e1cbbcd0aba0ab33a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Mcguffin_Light.png using Guid(ddfe010397414e1cbbcd0aba0ab33a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd107245cbfc1dec9737d2001438519a') in 0.008585 seconds 
+  Import took 0.010975 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.028918 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/Materials/Box001_low_diffuse.mat
-  artifactKey: Guid(2d15ece36759c804cb9fedcf08f49df3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/Materials/Box001_low_diffuse.mat using Guid(2d15ece36759c804cb9fedcf08f49df3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd28c17c4f2100987ebbd0bf2b6f9f140') in 0.015924 seconds 
-  Import took 0.067784 seconds .
+  Time since last request: 0.000158 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Guard_Light.png
+  artifactKey: Guid(b9a7a668b338e7520b68ed08aa23a9dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Guard_Light.png using Guid(b9a7a668b338e7520b68ed08aa23a9dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3abbecb53838345d9b5d3142b02e3e00') in 0.006470 seconds 
+  Import took 0.008878 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000230 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/Materials/Box001_low_normal.mat
-  artifactKey: Guid(226aa23071743e642bcd5ac117135b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/Materials/Box001_low_normal.mat using Guid(226aa23071743e642bcd5ac117135b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4383d7a5ae3133e9e9a7ca54596654e1') in 0.027196 seconds 
-  Import took 0.101075 seconds .
+  Time since last request: 0.000139 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Guard_Tex.png
+  artifactKey: Guid(02731f81e580749c08efaddb3f489c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Guard_Tex.png using Guid(02731f81e580749c08efaddb3f489c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a4f063b23b7ee7f4eac9812fd8225e8') in 0.009910 seconds 
+  Import took 0.012281 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000225 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/Materials/Box001_low_specular.mat
-  artifactKey: Guid(9abd6f38d259e874bacde5981d9ae593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/arcade-machine/Materials/Box001_low_specular.mat using Guid(9abd6f38d259e874bacde5981d9ae593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fa5ff7c6d9b63a53c45291acc222bf4') in 0.026743 seconds 
-  Import took 0.073428 seconds .
+  Time since last request: 0.000149 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Railing_Tex.png
+  artifactKey: Guid(889128942afd70a0fad4a4b3f50fa350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Railing_Tex.png using Guid(889128942afd70a0fad4a4b3f50fa350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a88e39dd527ece67ef7767f252e0c7cf') in 0.009249 seconds 
+  Import took 0.011620 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 29.094514 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/perk-machines/textures
-  artifactKey: Guid(f296dcd1a82bacc47ab68bd8571209b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/perk-machines/textures using Guid(f296dcd1a82bacc47ab68bd8571209b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccab11fcbcc49589bd3c7570342beee5') in 0.006481 seconds 
-  Import took 0.023626 seconds .
+  Time since last request: 0.000149 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Mcguffin_Tex_Lit.png
+  artifactKey: Guid(eaa5a71f42fdcd01088903dbd3ac112e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Mcguffin_Tex_Lit.png using Guid(eaa5a71f42fdcd01088903dbd3ac112e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99930a50392d8dd71007ce2452903c7e') in 0.007619 seconds 
+  Import took 0.011314 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.037759 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/perk-machines/textures/FastReloadMachineUV.png
-  artifactKey: Guid(17ffe38eada6ed7409a64aeea49f809f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/perk-machines/textures/FastReloadMachineUV.png using Guid(17ffe38eada6ed7409a64aeea49f809f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d4f3cbf472ea4b2f5c729fbb4ab139a') in 0.331984 seconds 
-  Import took 0.374357 seconds .
+  Time since last request: 0.000130 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Flight_Tex.png
+  artifactKey: Guid(259db332336c68590a406259cedc66b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Flight_Tex.png using Guid(259db332336c68590a406259cedc66b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9819f7363889dfa94b8c15a2a610c10a') in 0.010398 seconds 
+  Import took 0.014249 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/perk-machines/textures/HealthMachineUV.png
-  artifactKey: Guid(1aa53e495bae0ee4b8387701faca8fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/perk-machines/textures/HealthMachineUV.png using Guid(1aa53e495bae0ee4b8387701faca8fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e863c5705a7baba169d6a890ea8c115') in 0.270861 seconds 
-  Import took 0.330979 seconds .
+  Time since last request: 10.188369 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Textures
+  artifactKey: Guid(9ebd1a9ef6bda02c9a83aa231762ce15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Textures using Guid(9ebd1a9ef6bda02c9a83aa231762ce15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffb80d3260e2b8fa8d9592160234e251') in 0.000980 seconds 
+  Import took 0.003682 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000167 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/perk-machines/textures/SecondLifeMachineUV.png
-  artifactKey: Guid(5e4a67a9a5a2b004b9eac49e7b517a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/perk-machines/textures/SecondLifeMachineUV.png using Guid(5e4a67a9a5a2b004b9eac49e7b517a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65f6eb266d3477daf7478fd0e1e3fc4f') in 0.292758 seconds 
-  Import took 0.327301 seconds .
+  Time since last request: 8.494607 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Source
+  artifactKey: Guid(10f6ca2ff13dbd37b980deb64feeaa51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Source using Guid(10f6ca2ff13dbd37b980deb64feeaa51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41a2925a723bb1d8a596255626ddd58c') in 0.000989 seconds 
+  Import took 0.003720 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000147 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/perk-machines/textures/QuickFireMachineUV.png
-  artifactKey: Guid(f6f7252721d097e49a43140191ac78b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/perk-machines/textures/QuickFireMachineUV.png using Guid(f6f7252721d097e49a43140191ac78b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7283b36d0c050fe9e0909aaf23886dd') in 0.259044 seconds 
-  Import took 0.307876 seconds .
+  Time since last request: 6.280044 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/MechHangar_.fbx
+  artifactKey: Guid(786ca821e04b307acb49255e5b28e435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/MechHangar_.fbx using Guid(786ca821e04b307acb49255e5b28e435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f8e5f6de266c660d3cd137c2add4615') in 1.468264 seconds 
+  Import took 1.472663 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.184066 seconds.
-  path: Assets/StudentAssets/Josh Lubert/Free Assets/perk-machines/Materials/FastReloadMachineUV.mat
-  artifactKey: Guid(83758a939eac510428891b841efcd91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Josh Lubert/Free Assets/perk-machines/Materials/FastReloadMachineUV.mat using Guid(83758a939eac510428891b841efcd91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7065f7afb7fefc37d2362c78d60d191') in 0.034929 seconds 
-  Import took 0.074302 seconds .
+  Time since last request: 172.941833 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer
+  artifactKey: Guid(6985303b5dd7cb71a80eb35d29a1446e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer using Guid(6985303b5dd7cb71a80eb35d29a1446e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b26fd416cd76f8b797e99ef05866527') in 0.000999 seconds 
+  Import took 0.003762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.728055 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Source
+  artifactKey: Guid(8a2a6a8d68796668bbf7b070e6cf95c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Source using Guid(8a2a6a8d68796668bbf7b070e6cf95c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99ced4e396e848fdcf4f3ed6eb42506f') in 0.000963 seconds 
+  Import took 0.003934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.885339 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Textures
+  artifactKey: Guid(a1b34cf8a03145c5387acbeb4fcf3bd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Textures using Guid(a1b34cf8a03145c5387acbeb4fcf3bd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7465c8b150ebd1f81d017225b5b99e11') in 0.000979 seconds 
+  Import took 0.003894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.954010 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Textures/letter_metallic.jpeg
+  artifactKey: Guid(9196d9cf4c77fdc67880d0131ac0831d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Textures/letter_metallic.jpeg using Guid(9196d9cf4c77fdc67880d0131ac0831d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9328104b24f44867657b6c4db765d19d') in 0.014205 seconds 
+  Import took 0.017391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023811 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Textures/letter_albedo.jpeg
+  artifactKey: Guid(d1178358d9b3e01e5a5d62b60d75b6ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Textures/letter_albedo.jpeg using Guid(d1178358d9b3e01e5a5d62b60d75b6ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cbabb345a71536046a80eeb463a3791') in 0.011497 seconds 
+  Import took 0.014629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Textures/letter_roughness.jpeg
+  artifactKey: Guid(4cd1eac0fffa2ff3ab458f6d013580c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Textures/letter_roughness.jpeg using Guid(4cd1eac0fffa2ff3ab458f6d013580c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f207a3c15b697b82f08fcae219e1b72a') in 0.014393 seconds 
+  Import took 0.017062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Textures/letter_normal.png
+  artifactKey: Guid(e326af6c27c4c0154af3c18024760591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Textures/letter_normal.png using Guid(e326af6c27c4c0154af3c18024760591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cee693fc67f5787c1a362c1524aa03a') in 0.007622 seconds 
+  Import took 0.010174 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
