@@ -1,149 +1,138 @@
-Unity Editor version:    2020.3.18f1 (a7d1c678663c)
-Branch:                  2020.3/staging
-Build type:              Release
-Batch mode:              YES
-System name:             Linux
-Distro version:          #123-Ubuntu SMP Fri Apr 8 09:10:54 UTC 2022
-Kernel version:          5.4.0-109-generic
-Architecture:            x86_64
-Available memory:        15916 MB
 Using pre-set license
-Pro License: NO
-Desktop is 1920 x 1080 @ 60 Hz
+Built from '2020.3/staging' branch; Version is '2020.3.18f1 (a7d1c678663c) revision 10998214'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1645; Version 2009; 64bit' Language: 'en' Physical Memory: 16316 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
 COMMAND LINE ARGUMENTS:
-Unity
+C:\Program Files\Unity\Hub\Editor\2020.3.18f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-/home/evasolch/SGDUniverseAltSpace/SGDUniverseAltSpace
+E:/Git/SGD/SGDUniverseAltSpace/SGDUniverseAltSpace
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-43645
-Successfully changed project path to: /home/evasolch/SGDUniverseAltSpace/SGDUniverseAltSpace
-/home/evasolch/SGDUniverseAltSpace/SGDUniverseAltSpace
+57641
+Successfully changed project path to: E:/Git/SGD/SGDUniverseAltSpace/SGDUniverseAltSpace
+E:/Git/SGD/SGDUniverseAltSpace/SGDUniverseAltSpace
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 38.40 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 60.94 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.18f1 (a7d1c678663c)
-[Subsystems] Discovering subsystems at path /home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path /home/evasolch/SGDUniverseAltSpace/SGDUniverseAltSpace/Assets
-GLX Extensions: GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_visual_info GLX_EXT_visual_rating GLX_EXT_import_context GLX_SGI_video_sync GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGI_swap_control GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_buffer_age GLX_ARB_create_context GLX_ARB_create_context_profile GLX_NV_float_buffer GLX_ARB_fbconfig_float GLX_EXT_texture_from_pixmap GLX_EXT_framebuffer_sRGB GLX_NV_copy_image GLX_EXT_create_context_es_profile GLX_EXT_create_context_es2_profile GLX_ARB_create_context_no_error GLX_ARB_create_context_robustness GLX_NV_delay_before_swap GLX_EXT_stereo_tree GLX_ARB_context_flush_control GLX_NV_robustness_video_memory_purge GLX_NV_multigpu_context 
-Renderer: NVIDIA GeForce GTX 1660 Ti/PCIe/SSE2
-Vendor:   NVIDIA Corporation
-Version:  4.5.0 NVIDIA 470.103.01
-GLES:     0
- GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragmen
-t_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoki
-ng_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_A
-RB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_t
-ranspose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters 
-GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_multiview_texture_multisample GL_EXT_multiview_timer_query GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_post_depth_coverage GL_EXT_provoking_vertex GL_EXT_raster_multisample GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_sparse_texture2 GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_lod G
-L_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_x11_sync_object GL_EXT_import_sync_object GL_NV_robustness_video_memory_purge GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_fd GL_NV_memory_object_sparse GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_fd GL_NV_timeline_semaphore GL_KHR_shader_subgroup GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_
-blend_equation_advanced_coherent GL_NVX_blend_equation_advanced_multi_draw_buffers GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_clip_space_w_scaling GL_NV_command_list GL_NV_compute_program5 GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_conservative_raster_pre_snap GL_NV_conservative_raster_pre_snap_triangles GL_NV_conservative_raster_underestimation GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_barycentric GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_geometry_sha
-der_passthrough GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_memory_attachment GL_NV_mesh_shader GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_representative_fragment_test GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_scissor_exclusive GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_float64 GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_shader_subgroup_partitioned GL_NV_shader_texture
-_footprint GL_NV_shading_rate_image GL_NV_stereo_view_rendering GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vdpau_interop GL_NV_vdpau_interop2 GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NV_gpu_multicast GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap
- GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum
-OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle -1231412936
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Git/SGD/SGDUniverseAltSpace/SGDUniverseAltSpace/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   30.0.15.1215
 Initialize mono
-Mono path[0] = '/home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Managed'
-Mono path[1] = '/home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = '/home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56799
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56484
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: /home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Register platform support module: /home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: /home/evasolch/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.001377 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
+Registered in 0.464068 seconds.
+Native extension for Lumin target not found
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 38.72 ms, found 0 plugins.
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 64.43 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.946 seconds
+- Completed reload, in  5.954 seconds
 Domain Reload Profiling:
-	ReloadAssembly (946ms)
-		BeginReloadAssembly (23ms)
+	ReloadAssembly (5955ms)
+		BeginReloadAssembly (2586ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (345ms)
-			LoadAssemblies (22ms)
+		EndReloadAssembly (904ms)
+			LoadAssemblies (2603ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (113ms)
+			SetupTypeCache (523ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (26ms)
-			SetupLoadedEditorAssemblies (165ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (227ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
+				InitializePlatformSupportModulesInManaged (9ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (39ms)
-				BeforeProcessingInitializeOnLoad (7ms)
-				ProcessInitializeOnLoadAttributes (94ms)
-				ProcessInitializeOnLoadMethodAttributes (22ms)
+				RefreshPlugins (65ms)
+				BeforeProcessingInitializeOnLoad (19ms)
+				ProcessInitializeOnLoadAttributes (96ms)
+				ProcessInitializeOnLoadMethodAttributes (38ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001439 seconds.
+Registered in 0.591514 seconds.
 Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 40.11 ms, found 0 plugins.
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 62.43 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.830 seconds
+- Completed reload, in  4.045 seconds
 Domain Reload Profiling:
-	ReloadAssembly (830ms)
-		BeginReloadAssembly (91ms)
+	ReloadAssembly (4050ms)
+		BeginReloadAssembly (171ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
+			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (13ms)
-		EndReloadAssembly (696ms)
-			LoadAssemblies (51ms)
+			CreateAndSetChildDomain (22ms)
+		EndReloadAssembly (3795ms)
+			LoadAssemblies (2092ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (223ms)
+			SetupTypeCache (907ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (38ms)
-			SetupLoadedEditorAssemblies (288ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (625ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
+				InitializePlatformSupportModulesInManaged (8ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (40ms)
-				BeforeProcessingInitializeOnLoad (54ms)
-				ProcessInitializeOnLoadAttributes (183ms)
-				ProcessInitializeOnLoadMethodAttributes (3ms)
-				AfterProcessingInitializeOnLoad (4ms)
-				EditorAssembliesLoaded (0ms)
+				RefreshPlugins (63ms)
+				BeforeProcessingInitializeOnLoad (98ms)
+				ProcessInitializeOnLoadAttributes (436ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (5ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler after 0.00 seconds
-Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2549 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 106.6 MB.
-System memory in use after: 106.8 MB.
+System memory in use before: 116.5 MB.
+System memory in use after: 116.7 MB.
 
 Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2995.
-Total: 4.412388 ms (FindLiveObjects: 0.239767 ms CreateObjectMapping: 0.107661 ms MarkObjects: 3.967103 ms  DeleteObjects: 0.096864 ms)
+Total: 3.378900 ms (FindLiveObjects: 0.252800 ms CreateObjectMapping: 0.120600 ms MarkObjects: 2.916100 ms  DeleteObjects: 0.088500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
@@ -154,241 +143,521 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Readme.asset
-  artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b1cb48c2cb3f2ab11a55bbe97c386b7') in 0.026442 seconds 
-  Import took 0.029862 seconds .
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1004_albedo.jpg
+  artifactKey: Guid(ddb4811aef1fbaf468ae48dd556f9d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1004_albedo.jpg using Guid(ddb4811aef1fbaf468ae48dd556f9d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb075cf81c55caaead25c40338ebc963') in 0.108925 seconds 
+  Import took 0.113096 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 50.454612 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_obja_col.png
-  artifactKey: Guid(7f38c769a70813cda98c74f8c6a4aa24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_obja_col.png using Guid(7f38c769a70813cda98c74f8c6a4aa24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce3c348f4c812db2e356e6a71da807c3') in 0.034865 seconds 
-  Import took 0.041154 seconds .
+  Time since last request: 0.000161 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1013_albedo.jpg
+  artifactKey: Guid(8217f19345d0b5d4d8b0bf21d513c630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1013_albedo.jpg using Guid(8217f19345d0b5d4d8b0bf21d513c630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38f3d40f4bb78ce9994d2bfa3559174f') in 0.017392 seconds 
+  Import took 0.021776 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000257 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_switch.dae
-  artifactKey: Guid(e8cfb1809f9ed27b3b9983f6816cc259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_switch.dae using Guid(e8cfb1809f9ed27b3b9983f6816cc259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a150f6ed1fbef2cfec2e7faf986157f3') in 0.118569 seconds 
-  Import took 0.121536 seconds .
+  Time since last request: 0.000169 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1012_metallic.jpg
+  artifactKey: Guid(7cc2d95c54ea1a54e967216c22d4021c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1012_metallic.jpg using Guid(7cc2d95c54ea1a54e967216c22d4021c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb450c6d573b5bd574e98b5b5372b9a5') in 0.013731 seconds 
+  Import took 0.018448 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000219 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_objb_spc.png
-  artifactKey: Guid(8f17056c305d7d758bf98a21962997c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_objb_spc.png using Guid(8f17056c305d7d758bf98a21962997c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0af1d2b8151148e0a05a0f01e8dc937') in 0.004284 seconds 
-  Import took 0.006644 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_objb_col.png
-  artifactKey: Guid(d4666092b9272828bb2a92804305e7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_objb_col.png using Guid(d4666092b9272828bb2a92804305e7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4efdcb215b706040d286e55451fbff67') in 0.008934 seconds 
-  Import took 0.011440 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000212 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_obja_spc.png
-  artifactKey: Guid(5fa1bb038ce79d061996b61da30a281c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/ob0006_00_obja_spc.png using Guid(5fa1bb038ce79d061996b61da30a281c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4632563138d19f85d5d99e1ffb581995') in 0.004166 seconds 
-  Import took 0.006702 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.366661 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets
-  artifactKey: Guid(27060adf507d2a34db79d42486710c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets using Guid(27060adf507d2a34db79d42486710c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1dc8a524c75f62c66f9e76b675a9c40') in 0.000746 seconds 
-  Import took 0.004063 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.909489 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Nintendo Switch
-  artifactKey: Guid(b7fc83f7bd21ebc7ab18d46badb2ca4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Nintendo Switch using Guid(b7fc83f7bd21ebc7ab18d46badb2ca4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5175207e376bbb99c4f8fa0dda0b8052') in 0.001021 seconds 
-  Import took 0.003818 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 19.518556 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Nintendo Switch/ob0006_00_switch.dae
-  artifactKey: Guid(e8cfb1809f9ed27b3b9983f6816cc259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Nintendo Switch/ob0006_00_switch.dae using Guid(e8cfb1809f9ed27b3b9983f6816cc259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a171b269582eab9570e4f8e4b9fc0c2') in 0.038165 seconds 
-  Import took 0.042485 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.443686 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Nintendo Switch/Source
-  artifactKey: Guid(54341438eb0e1836392159428826068e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Nintendo Switch/Source using Guid(54341438eb0e1836392159428826068e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dd30b770f879ae958d0287d22062a00') in 0.001066 seconds 
-  Import took 0.003772 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.214107 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Nintendo Switch/Textures
-  artifactKey: Guid(54a378848c5974cd8b8ba7cf99b58131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Nintendo Switch/Textures using Guid(54a378848c5974cd8b8ba7cf99b58131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efc8acb27af57ae91a0879946524ad0c') in 0.000959 seconds 
-  Import took 0.003678 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 79.624708 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar
-  artifactKey: Guid(6f635d001c5cd410687dfc6d8d4a78d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar using Guid(6f635d001c5cd410687dfc6d8d4a78d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '332f32d60e4cbd707529a215f964337e') in 0.000994 seconds 
-  Import took 0.003649 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.995987 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Railing_Light.png
-  artifactKey: Guid(bf35d91c3119e4732aff78e0dac9ba26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Railing_Light.png using Guid(bf35d91c3119e4732aff78e0dac9ba26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a52f6a5d3dc54954022f14810557da38') in 0.008001 seconds 
-  Import took 0.010980 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.024354 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Flight_Light.png
-  artifactKey: Guid(c8baaccb610ab0be398e4e72d5d944ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Flight_Light.png using Guid(c8baaccb610ab0be398e4e72d5d944ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '528ae3807f2a0e2dd27928a4586ebe0b') in 0.010914 seconds 
-  Import took 0.013779 seconds .
+  Time since last request: 0.000225 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1001_normal.png
+  artifactKey: Guid(0f0252fe60cae8943af41792cb61d037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1001_normal.png using Guid(0f0252fe60cae8943af41792cb61d037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acdb144e82f18f1d331f784acdb001e9') in 0.015706 seconds 
+  Import took 0.020123 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000153 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Mcguffin_Light.png
-  artifactKey: Guid(ddfe010397414e1cbbcd0aba0ab33a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Mcguffin_Light.png using Guid(ddfe010397414e1cbbcd0aba0ab33a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd107245cbfc1dec9737d2001438519a') in 0.008585 seconds 
-  Import took 0.010975 seconds .
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1005_metallic.jpg
+  artifactKey: Guid(5843ac12b940f8a49acd9b3bc2df1f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1005_metallic.jpg using Guid(5843ac12b940f8a49acd9b3bc2df1f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f4ccb3c39baa5d59c5f1af7009d8fec') in 0.013177 seconds 
+  Import took 0.020182 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000158 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Guard_Light.png
-  artifactKey: Guid(b9a7a668b338e7520b68ed08aa23a9dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Guard_Light.png using Guid(b9a7a668b338e7520b68ed08aa23a9dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3abbecb53838345d9b5d3142b02e3e00') in 0.006470 seconds 
-  Import took 0.008878 seconds .
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1012_albedo.jpg
+  artifactKey: Guid(fde83be485c232a4d97a0ff36472ce39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1012_albedo.jpg using Guid(fde83be485c232a4d97a0ff36472ce39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef26e2404640f96c0ba3f9f75aa76b33') in 0.011296 seconds 
+  Import took 0.014868 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000139 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Guard_Tex.png
-  artifactKey: Guid(02731f81e580749c08efaddb3f489c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Guard_Tex.png using Guid(02731f81e580749c08efaddb3f489c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a4f063b23b7ee7f4eac9812fd8225e8') in 0.009910 seconds 
-  Import took 0.012281 seconds .
+  Time since last request: 0.000176 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1011_normal.png
+  artifactKey: Guid(c0f6f005390911e47802527fcbf9dc3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1011_normal.png using Guid(c0f6f005390911e47802527fcbf9dc3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f5a46a5216a3dabd37b6288c74fa37e') in 0.012283 seconds 
+  Import took 0.015828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1003_normal.png
+  artifactKey: Guid(2de4cbaea98a0004296a2ba857c60aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1003_normal.png using Guid(2de4cbaea98a0004296a2ba857c60aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3c962cf56667045be2b6b3f9a43b7fb') in 0.014519 seconds 
+  Import took 0.018237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1005_roughness.jpg
+  artifactKey: Guid(f5f751e0c28a2f3408d81c434ea158e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1005_roughness.jpg using Guid(f5f751e0c28a2f3408d81c434ea158e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b60a9bb359d5a10e1b51db907cb0398') in 0.013755 seconds 
+  Import took 0.018346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1011_albedo.jpg
+  artifactKey: Guid(395ead1cbacccd94f827854385b2fd6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1011_albedo.jpg using Guid(395ead1cbacccd94f827854385b2fd6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '828964aef4b4bbe6b00b90da29142fa4') in 0.011993 seconds 
+  Import took 0.016341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1005_albedo.jpg
+  artifactKey: Guid(0aff400094536cb46a420361b2d0312f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1005_albedo.jpg using Guid(0aff400094536cb46a420361b2d0312f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '577ca772cdd781b3f9354b0e069a2306') in 0.019281 seconds 
+  Import took 0.025337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1001_roughness.jpg
+  artifactKey: Guid(6a29dd49939de2240aa83e3493a35a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1001_roughness.jpg using Guid(6a29dd49939de2240aa83e3493a35a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37c5313465887ea6243191f206786f2f') in 0.013521 seconds 
+  Import took 0.017092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1004_metallic.jpg
+  artifactKey: Guid(dcce9e4e7d8b0d845b3d5e2a9ac6cbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1004_metallic.jpg using Guid(dcce9e4e7d8b0d845b3d5e2a9ac6cbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b9b166f5d998e7ee42cb0c49596076d') in 0.016374 seconds 
+  Import took 0.022008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1013_normal.png
+  artifactKey: Guid(9a326de21cbb13c48a58c315d06abbe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1013_normal.png using Guid(9a326de21cbb13c48a58c315d06abbe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04c43f258bd914aa7422752e61df2d23') in 0.020761 seconds 
+  Import took 0.024976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1004_roughness.jpg
+  artifactKey: Guid(b82bc17b75d130f4d88c0b834edc12a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1004_roughness.jpg using Guid(b82bc17b75d130f4d88c0b834edc12a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce0ac428ae11ac07a2aca392c1df2d4e') in 0.011666 seconds 
+  Import took 0.015897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1002_metallic.jpg
+  artifactKey: Guid(8c3a6a8dc6b984344be5a263cf2cc0fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1002_metallic.jpg using Guid(8c3a6a8dc6b984344be5a263cf2cc0fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '918f6e9eec3dc70f9406b61e9cbb8866') in 0.018877 seconds 
+  Import took 0.024294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1012_normal.png
+  artifactKey: Guid(c00c8b934efb6fc418a6b766327fcf3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1012_normal.png using Guid(c00c8b934efb6fc418a6b766327fcf3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f492ab5c037d7eced30227d75d3ed01d') in 0.016839 seconds 
+  Import took 0.020545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1002_albedo.jpg
+  artifactKey: Guid(31788790736271b418ba2b39abdba949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1002_albedo.jpg using Guid(31788790736271b418ba2b39abdba949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a974f3ac851a4a44aba585fdd7853f54') in 0.011364 seconds 
+  Import took 0.015582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1012_emissive.jpg
+  artifactKey: Guid(d822dff142181fb4689e8d4baedf2346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1012_emissive.jpg using Guid(d822dff142181fb4689e8d4baedf2346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2839ca8d4685c3693f31f7cbb3e63d0b') in 0.015779 seconds 
+  Import took 0.020188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1013_roughness.jpg
+  artifactKey: Guid(a272f5d141f84c34ba5f775c586f1888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1013_roughness.jpg using Guid(a272f5d141f84c34ba5f775c586f1888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4184634eb9261294168365eaa5511066') in 0.019853 seconds 
+  Import took 0.024420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1012_roughness.jpg
+  artifactKey: Guid(d711d882e76cd674eb428df9d6274c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1012_roughness.jpg using Guid(d711d882e76cd674eb428df9d6274c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cde5130dfd6395d129b4098bd8b4be8b') in 0.014327 seconds 
+  Import took 0.018241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1013_metallic.jpg
+  artifactKey: Guid(392523dda77c193409022460076eb3cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1013_metallic.jpg using Guid(392523dda77c193409022460076eb3cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e041a2a521c843778d1b0feba90821ed') in 0.013220 seconds 
+  Import took 0.019692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1001_albedo.jpg
+  artifactKey: Guid(4c03f6120b963f54c8c2ee9ea045277b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1001_albedo.jpg using Guid(4c03f6120b963f54c8c2ee9ea045277b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '436b8300a4b7b7000a2efad04f98968c') in 0.012021 seconds 
+  Import took 0.016236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1001_metallic.jpg
+  artifactKey: Guid(6cf11be50d064ad408a8fb417a505a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1001_metallic.jpg using Guid(6cf11be50d064ad408a8fb417a505a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e3c41eaca3d8841727b2bbc6a51e02') in 0.013789 seconds 
+  Import took 0.018552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1002_normal.png
+  artifactKey: Guid(12d44bba6ef3b614ca0a2fda14e4b952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1002_normal.png using Guid(12d44bba6ef3b614ca0a2fda14e4b952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbd5c7c718a30aff914f4019652e1aff') in 0.010993 seconds 
+  Import took 0.015117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/parecequesis.obj
+  artifactKey: Guid(636681f020d777a4ab2ad3e2111f3d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/parecequesis.obj using Guid(636681f020d777a4ab2ad3e2111f3d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e73a833ea0615a750f57ce9227a39838') in 0.241508 seconds 
+  Import took 0.245809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1011_roughness.jpg
+  artifactKey: Guid(97ea0bc4b606d0b429a4ab2020272f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1011_roughness.jpg using Guid(97ea0bc4b606d0b429a4ab2020272f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd193cb6804a1d19ef947db6eb4c9854b') in 0.013796 seconds 
+  Import took 0.019311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1003_metallic.jpg
+  artifactKey: Guid(bb5bf73f659421547902fb6922f1b1da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1003_metallic.jpg using Guid(bb5bf73f659421547902fb6922f1b1da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a60a92a65727f34acac0abf9f668505') in 0.014326 seconds 
+  Import took 0.018382 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000149 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Railing_Tex.png
-  artifactKey: Guid(889128942afd70a0fad4a4b3f50fa350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Railing_Tex.png using Guid(889128942afd70a0fad4a4b3f50fa350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a88e39dd527ece67ef7767f252e0c7cf') in 0.009249 seconds 
-  Import took 0.011620 seconds .
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source
+  artifactKey: Guid(8a0c6ea3f6817ef49a0fac4624d78f53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source using Guid(8a0c6ea3f6817ef49a0fac4624d78f53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b719164be03bbeef64d8c63b77462cf') in 0.006568 seconds 
+  Import took 0.010695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1005_normal.png
+  artifactKey: Guid(7824643dc3ae905469771624783463cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1005_normal.png using Guid(7824643dc3ae905469771624783463cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7539a76f84e4e0c67f31e949653762e6') in 0.014293 seconds 
+  Import took 0.018287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk
+  artifactKey: Guid(e1542ce0b49afea4d95fb7eccfc6d6f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk using Guid(e1542ce0b49afea4d95fb7eccfc6d6f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30ca14adf21362bc14cfb75850ec59b8') in 0.007106 seconds 
+  Import took 0.011151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1002_roughness.jpg
+  artifactKey: Guid(d35fff07b55e56645afaa4986da26e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1002_roughness.jpg using Guid(d35fff07b55e56645afaa4986da26e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aabcad2e6787532613493e7b3bbf685') in 0.010898 seconds 
+  Import took 0.015126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1011_metallic.jpg
+  artifactKey: Guid(035419d51779e8f4e8706f989950d93a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1011_metallic.jpg using Guid(035419d51779e8f4e8706f989950d93a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aaaac5d2522046c627197613ecb3566') in 0.014572 seconds 
+  Import took 0.019986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro
+  artifactKey: Guid(717df477a65123846a0862ac781e48d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro using Guid(717df477a65123846a0862ac781e48d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b20407362ddd4d5d099146cb7f850b07') in 0.007747 seconds 
+  Import took 0.012999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1003_albedo.jpg
+  artifactKey: Guid(680987ea321f9c340a4116bec315934f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1003_albedo.jpg using Guid(680987ea321f9c340a4116bec315934f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e197fde2ac60e7a41c7b50a3cd90dbfa') in 0.012481 seconds 
+  Import took 0.017086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1003_roughness.jpg
+  artifactKey: Guid(6f1d77fa0204b3745af875060267c6d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1003_roughness.jpg using Guid(6f1d77fa0204b3745af875060267c6d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45800d9d0d8949bb11edea48904e3558') in 0.020404 seconds 
+  Import took 0.029477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1004_normal.png
+  artifactKey: Guid(ea93a1bdd0ba7f042a408f22bbcf4280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1004_normal.png using Guid(ea93a1bdd0ba7f042a408f22bbcf4280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00cfb5ad3655c1c55b5dd3176305345e') in 0.011461 seconds 
+  Import took 0.015348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1005_emissive.jpg
+  artifactKey: Guid(12fb91f3217e5ab4586eeb6770691d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/CyberPunk Free Assets/elementos-cyberpunk/source/ahorasiperro/1005_emissive.jpg using Guid(12fb91f3217e5ab4586eeb6770691d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ac4db0235c672131fa592185054c5f9') in 0.011624 seconds 
+  Import took 0.018125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.053020 seconds.
+  path: Assets/StudentAssets/Josh Lubert
+  artifactKey: Guid(ad9695c60912e2148a133e51d8caa086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert using Guid(ad9695c60912e2148a133e51d8caa086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f498ed3f7d985b129bc40ec3958057fe') in 0.005065 seconds 
+  Import took 0.011707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.604754 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Contemporary City
+  artifactKey: Guid(adc8a1acbdedf404f8c4fe2a8b088fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Contemporary City using Guid(adc8a1acbdedf404f8c4fe2a8b088fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b8143de0647a1cbf90d8c3e4f76ef4c') in 0.007121 seconds 
+  Import took 0.013342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.986153 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1
+  artifactKey: Guid(626c5c664fba94f4489b8f11cbfcb6dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1 using Guid(626c5c664fba94f4489b8f11cbfcb6dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fe9e91c045417902ddb8775f4d04ada') in 0.005587 seconds 
+  Import took 0.009176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.645609 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source
+  artifactKey: Guid(c5c09e034cc56f143bd89b1e04259555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source using Guid(c5c09e034cc56f143bd89b1e04259555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '599faa38c9337d9ce9fa897f7879ac59') in 0.005357 seconds 
+  Import took 0.009855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.711718 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1
+  artifactKey: Guid(dcbc8a943ad00ab4299c6b7b6c3c8258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1 using Guid(dcbc8a943ad00ab4299c6b7b6c3c8258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fc5b1507a311a7a7eb0589fea0dbbd2') in 0.006645 seconds 
+  Import took 0.010393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039388 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Modern Bench 1.fbx
+  artifactKey: Guid(d3340742b3c421f45a3ab6f0fbf54870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Modern Bench 1.fbx using Guid(d3340742b3c421f45a3ab6f0fbf54870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fd14b50d301fa1af065e8b6c459aefa') in 0.051952 seconds 
+  Import took 0.056189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Stainless Steel.jpg
+  artifactKey: Guid(b772a058d4798a44ab56cfd2a4c7629d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Stainless Steel.jpg using Guid(b772a058d4798a44ab56cfd2a4c7629d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b8c2fd0e213443cd74c83ac429d2634') in 0.016916 seconds 
+  Import took 0.020800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Wood normal.jpg
+  artifactKey: Guid(6ec5373529757664fa7f48044090efd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Wood normal.jpg using Guid(6ec5373529757664fa7f48044090efd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaa05019d996f28682fcea7d863136cd') in 0.020484 seconds 
+  Import took 0.024036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Stainless Steel metalness.jpg
+  artifactKey: Guid(c2fb914295d00f84a9dfd9c79f14c94d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Stainless Steel metalness.jpg using Guid(c2fb914295d00f84a9dfd9c79f14c94d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e53c46166a7f71128f1057a6284a3155') in 0.017330 seconds 
+  Import took 0.020844 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000149 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Mcguffin_Tex_Lit.png
-  artifactKey: Guid(eaa5a71f42fdcd01088903dbd3ac112e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Mcguffin_Tex_Lit.png using Guid(eaa5a71f42fdcd01088903dbd3ac112e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99930a50392d8dd71007ce2452903c7e') in 0.007619 seconds 
-  Import took 0.011314 seconds .
+  path: Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Stainless Steel normal.jpg
+  artifactKey: Guid(059be8d50e0c2c944891b25882405f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Stainless Steel normal.jpg using Guid(059be8d50e0c2c944891b25882405f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9edd4194ba0efbb06c2ac8b1bc670cd5') in 0.012882 seconds 
+  Import took 0.017638 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000130 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Flight_Tex.png
-  artifactKey: Guid(259db332336c68590a406259cedc66b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Flight_Tex.png using Guid(259db332336c68590a406259cedc66b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9819f7363889dfa94b8c15a2a610c10a') in 0.010398 seconds 
-  Import took 0.014249 seconds .
+  Time since last request: 0.000147 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Stainless Steel roughness.jpg
+  artifactKey: Guid(ae95fb23a5ad0c84590a661877d39d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Stainless Steel roughness.jpg using Guid(ae95fb23a5ad0c84590a661877d39d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3e3edf49235d6071289a964a5cc3058') in 0.014905 seconds 
+  Import took 0.018745 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 10.188369 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Textures
-  artifactKey: Guid(9ebd1a9ef6bda02c9a83aa231762ce15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Textures using Guid(9ebd1a9ef6bda02c9a83aa231762ce15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffb80d3260e2b8fa8d9592160234e251') in 0.000980 seconds 
-  Import took 0.003682 seconds .
+  Time since last request: 0.000140 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Stainless Steel normal.jpg
+  artifactKey: Guid(059be8d50e0c2c944891b25882405f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Stainless Steel normal.jpg using Guid(059be8d50e0c2c944891b25882405f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9edd4194ba0efbb06c2ac8b1bc670cd5') in 0.009862 seconds 
+  Import took 0.013834 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.494607 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Source
-  artifactKey: Guid(10f6ca2ff13dbd37b980deb64feeaa51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/Source using Guid(10f6ca2ff13dbd37b980deb64feeaa51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41a2925a723bb1d8a596255626ddd58c') in 0.000989 seconds 
-  Import took 0.003720 seconds .
+  Time since last request: 0.000142 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Stainless Steel roughness.jpg
+  artifactKey: Guid(ae95fb23a5ad0c84590a661877d39d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Stainless Steel roughness.jpg using Guid(ae95fb23a5ad0c84590a661877d39d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3e3edf49235d6071289a964a5cc3058') in 0.010730 seconds 
+  Import took 0.014940 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.280044 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/MechHangar_.fbx
-  artifactKey: Guid(786ca821e04b307acb49255e5b28e435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Mech Hangar/MechHangar_.fbx using Guid(786ca821e04b307acb49255e5b28e435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f8e5f6de266c660d3cd137c2add4615') in 1.468264 seconds 
-  Import took 1.472663 seconds .
+  Time since last request: 0.000142 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Wood roughness.jpg
+  artifactKey: Guid(0be3a8545679aff44869ead6ec7e765d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Wood roughness.jpg using Guid(0be3a8545679aff44869ead6ec7e765d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b87485f6b21005195af70285f6e0ad1') in 0.013730 seconds 
+  Import took 0.017438 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 172.941833 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer
-  artifactKey: Guid(6985303b5dd7cb71a80eb35d29a1446e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer using Guid(6985303b5dd7cb71a80eb35d29a1446e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b26fd416cd76f8b797e99ef05866527') in 0.000999 seconds 
-  Import took 0.003762 seconds .
+  Time since last request: 0.000193 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Wood.jpg
+  artifactKey: Guid(3231785022072e44dbc1f433eceaf98c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Wood.jpg using Guid(3231785022072e44dbc1f433eceaf98c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0fe8dee4c20c51b912a83049ebca596') in 0.013422 seconds 
+  Import took 0.017436 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.728055 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Source
-  artifactKey: Guid(8a2a6a8d68796668bbf7b070e6cf95c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Source using Guid(8a2a6a8d68796668bbf7b070e6cf95c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99ced4e396e848fdcf4f3ed6eb42506f') in 0.000963 seconds 
-  Import took 0.003934 seconds .
+  Time since last request: 0.003750 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Wood.jpg
+  artifactKey: Guid(3231785022072e44dbc1f433eceaf98c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Contemporary City/modern-bench-1/source/Modern Bench 1/Wood.jpg using Guid(3231785022072e44dbc1f433eceaf98c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0fe8dee4c20c51b912a83049ebca596') in 0.014729 seconds 
+  Import took 0.018803 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.885339 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Textures
-  artifactKey: Guid(a1b34cf8a03145c5387acbeb4fcf3bd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Textures using Guid(a1b34cf8a03145c5387acbeb4fcf3bd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7465c8b150ebd1f81d017225b5b99e11') in 0.000979 seconds 
-  Import took 0.003894 seconds .
+  Time since last request: 48.623270 seconds.
+  path: Assets/Settings/ForwardRenderer.asset
+  artifactKey: Guid(4a8e21d5c33334b11b34a596161b9360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/ForwardRenderer.asset using Guid(4a8e21d5c33334b11b34a596161b9360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33030ce919b7edccd6572f8465154303') in 0.201264 seconds 
+  Import took 0.236970 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.954010 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Textures/letter_metallic.jpeg
-  artifactKey: Guid(9196d9cf4c77fdc67880d0131ac0831d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Textures/letter_metallic.jpeg using Guid(9196d9cf4c77fdc67880d0131ac0831d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9328104b24f44867657b6c4db765d19d') in 0.014205 seconds 
-  Import took 0.017391 seconds .
+  Time since last request: 0.000198 seconds.
+  path: Assets/Settings/SampleSceneProfile.asset
+  artifactKey: Guid(10fc4df2da32a41aaa32d77bc913491c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/SampleSceneProfile.asset using Guid(10fc4df2da32a41aaa32d77bc913491c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97cac1bc807967bdd8b1b46e845dd17b') in 0.015836 seconds 
+  Import took 0.053089 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.023811 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Textures/letter_albedo.jpeg
-  artifactKey: Guid(d1178358d9b3e01e5a5d62b60d75b6ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Textures/letter_albedo.jpeg using Guid(d1178358d9b3e01e5a5d62b60d75b6ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cbabb345a71536046a80eeb463a3791') in 0.011497 seconds 
-  Import took 0.014629 seconds .
+  Time since last request: 0.000163 seconds.
+  path: Assets/Settings/UniversalRP-LowQuality.asset
+  artifactKey: Guid(a31e9f9f9c9d4b9429ed0d1234e22103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/UniversalRP-LowQuality.asset using Guid(a31e9f9f9c9d4b9429ed0d1234e22103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e360b003bd7b59555647cac4bb5aaa2') in 0.024115 seconds 
+  Import took 0.044443 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Textures/letter_roughness.jpeg
-  artifactKey: Guid(4cd1eac0fffa2ff3ab458f6d013580c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Textures/letter_roughness.jpeg using Guid(4cd1eac0fffa2ff3ab458f6d013580c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f207a3c15b697b82f08fcae219e1b72a') in 0.014393 seconds 
-  Import took 0.017062 seconds .
+  Time since last request: 0.000186 seconds.
+  path: Assets/Settings/UniversalRP-MediumQuality.asset
+  artifactKey: Guid(d847b876476d3d6468f5dfcd34266f96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/UniversalRP-MediumQuality.asset using Guid(d847b876476d3d6468f5dfcd34266f96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '738045cef99250e65da67a7395991b67') in 0.022953 seconds 
+  Import took 0.045734 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000215 seconds.
-  path: Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Textures/letter_normal.png
-  artifactKey: Guid(e326af6c27c4c0154af3c18024760591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StudentAssets/Jonathan/Free Assets/Letter from a Muderer/Textures/letter_normal.png using Guid(e326af6c27c4c0154af3c18024760591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cee693fc67f5787c1a362c1524aa03a') in 0.007622 seconds 
-  Import took 0.010174 seconds .
+  Time since last request: 0.000270 seconds.
+  path: Assets/Settings/UniversalRP-HighQuality.asset
+  artifactKey: Guid(19ba41d7c0026c3459d37c2fe90c55a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/UniversalRP-HighQuality.asset using Guid(19ba41d7c0026c3459d37c2fe90c55a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed637f0e6bdf7f9b1a7cd9510882bb2e') in 0.021014 seconds 
+  Import took 0.055937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.927579 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(93ab5ebdf9270d64da070c2512fe91e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(93ab5ebdf9270d64da070c2512fe91e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '874f39407afdd23f6f32ac4d5053815e') in 0.006168 seconds 
+  Import took 0.023449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.169731 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Post-Apocalyptic Free Assets
+  artifactKey: Guid(797184c4a103cbe4e9a03fd7ff327789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Post-Apocalyptic Free Assets using Guid(797184c4a103cbe4e9a03fd7ff327789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85544012eaccf7d3010d9c4f0a6af0c2') in 0.006099 seconds 
+  Import took 0.043418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028470 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Post-Apocalyptic Free Assets/Arcade_Cabinet_mapped.obj
+  artifactKey: Guid(9900a679ff59cb3409d72666e16a5478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Post-Apocalyptic Free Assets/Arcade_Cabinet_mapped.obj using Guid(9900a679ff59cb3409d72666e16a5478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e14fe58e3280bd614da3dcd579642bf4') in 0.046446 seconds 
+  Import took 0.162476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/StudentAssets/Josh Lubert/Post-Apocalyptic Free Assets/Cabinet_lp.fbx
+  artifactKey: Guid(a5c9dda7f70a54f4e829aef13b9cf81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Josh Lubert/Post-Apocalyptic Free Assets/Cabinet_lp.fbx using Guid(a5c9dda7f70a54f4e829aef13b9cf81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16bde7b2f1c5ae8d61cfa29ef21cfa67') in 0.049246 seconds 
+  Import took 0.211300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.855911 seconds.
+  path: Assets/StudentAssets/Cody
+  artifactKey: Guid(ade55f35263d82a47ade9ca2236a723c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Cody using Guid(ade55f35263d82a47ade9ca2236a723c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7ce54a4773dbf4b76711140c73c6cb1') in 0.005817 seconds 
+  Import took 0.100308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/StudentAssets/Cody/Skybox_Mat.mat
+  artifactKey: Guid(0ffaa0b7117ba8c47a9d05ae701d4b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StudentAssets/Cody/Skybox_Mat.mat using Guid(0ffaa0b7117ba8c47a9d05ae701d4b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f5ae99a1a3e81c2bd010083fc304549') in 0.090018 seconds 
+  Import took 0.101689 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
